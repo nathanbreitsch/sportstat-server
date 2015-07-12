@@ -1,10 +1,7 @@
-import sys
 from sqlalchemy import Column, ForeignKey, Integer, String, DateTime, Boolean
-from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import relationship
-from sqlalchemy import create_engine
+from sportstat.database import Base
 
-Base = declarative_base()
 
 class Team(Base):
     __tablename__ = 'Team'
@@ -141,6 +138,3 @@ class Observation(Base):
             'value': self.value
         }
 
-
-engine = create_engine('sqlite:///sports.db')
-Base.metadata.create_all(engine)

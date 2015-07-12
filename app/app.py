@@ -1,14 +1,20 @@
 from flask import Flask, request, jsonify
 app = Flask(__name__)
 
-from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
-from models import Base, Team, Athlete
+from sportstat.database import Base, init_db, session
+from sportstat.models import Team, Athlete, Game, Play, Action, Observation
 
-engine = create_engine('sqlite:///sports.db')
-Base.metadata.bind = engine
-DBSession = sessionmaker(bind = engine)
-session = DBSession()
+# call to sync models to database
+init_db()
+
+@app.teardown_appcontext
+def shutdown_session(exception=None):
+    '''
+    Flask should automatically call this function when the application shuts
+    down in order to remove all database sessions.
+    '''
+    session.remove()
 
 def getQuery(request):
     if request.method == 'GET':
