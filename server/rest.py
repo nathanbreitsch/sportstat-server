@@ -1,7 +1,14 @@
-from app import app
+from server import app
 from sportstat.database import session
 from sportstat.models import Team, Athlete, Game, Play, Action, Observation
 
+
+@app.route('/help', methods=['GET'])
+def api_help():
+    '''
+    Return help message and API usage/documentation.
+    '''
+    return '''<h1>Help Page</h1>'''
 
 @app.route('/sportstat/api/v0.1/athletes', methods=['GET'])
 def get_athletes():
@@ -11,7 +18,7 @@ def get_athletes():
     athletes = [athlete.serialize for athlete in session.query(Athlete)]
     return jsonify(athletes)
 
-@app.route('/sportstat/api/v0.1/athletes/<last>', methods=['GET'])
+#@app.route('/sportstat/api/v0.1/athletes/<last>', methods=['GET'])
 @app.route('/sportstat/api/v0.1/athletes/<first>-<last>', methods=['GET'])
 def get_athlete_by_name(last, first=None):
     '''
@@ -21,7 +28,7 @@ def get_athlete_by_name(last, first=None):
     athletes = [athlete.serialize for athlete in session.query(Athlete).filter(first=first, last=last)]
     return jsonify(athletes)
 
-@app.route('/sportstat/api/v0.1/athletes/<team>-<int:number>', methods=['GET'])
+#@app.route('/sportstat/api/v0.1/athletes/<team>-<int:number>', methods=['GET'])
 @app.route('/sportstat/api/v0.1/athletes/<team>-<int:number>-<date>', methods=['GET'])
 def get_athlete_by_team_number_date(team, number, date=None):
     '''
