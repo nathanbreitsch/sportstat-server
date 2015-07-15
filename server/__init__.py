@@ -12,13 +12,6 @@ init_db()
 # [this post](https://support.google.com/docs/answer/186103?hl=en)
 import rest
 
-@app.route('/')
-def home():
-    '''
-    Tell the user they've accessed the SportStat server.
-    '''
-    return '''<h1>SportStat Server REST API</h1><br><p>See <a href="/help">help</a> for API help.</p>'''
-
 @app.teardown_appcontext
 def shutdown_session(exception=None):
     '''

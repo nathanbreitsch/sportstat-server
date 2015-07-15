@@ -1,0 +1,53 @@
+[
+  {
+    "source": {
+      "type": "table",
+      "name": "athletes"
+    },
+    "filters": [
+      {
+        "name": "first",
+        "title": "First Name",
+        "format": "string",
+        "type": "match"
+      },
+      {
+        "name": "last",
+        "title": "Last Name",
+        "format": "string",
+        "type": "match" // TODO match approximate?
+      },
+      {
+        "name": "number",
+        "title": "Number",
+        "format": "integer",
+        "type": "match"
+      },
+      {
+        "name": "weight",
+        "title": "Weight",
+        "format": "float",
+        "type": "compare"
+      },
+      {
+        "name": "height",
+        "title": "Height",
+        "format": "float",
+        "type": "compare"
+      },
+      {
+        "name": "team",
+        "title": "Team",
+        "format": "object-reference",
+        "type": "match",
+        "input": "dropdown"
+      },
+      {
+        "name": "position",
+        "title": "Position",
+        "format": "string"
+      }
+    ]
+  }
+]
+

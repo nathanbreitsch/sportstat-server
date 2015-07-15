@@ -3,6 +3,13 @@ from sportstat.database import session
 from sportstat.models import Team, Athlete, Game, Play, Action, Observation
 
 
+@app.route('/')
+def home():
+    '''
+    Tell the user they've accessed the SportStat server.
+    '''
+    return '''<h1>SportStat Server REST API</h1><br><p>See <a href="/help">help</a> for API help.</p>'''
+
 @app.route('/help', methods=['GET'])
 def api_help():
     '''
