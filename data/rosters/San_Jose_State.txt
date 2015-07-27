@@ -1,0 +1,80 @@
+first_name,last_name,suffix,position,height,weight,year
+Nico,Aimonetti,,OT,6050,271,SO
+Mark,Amann,,ILB,6010,220,RS JR/TR
+Dominic,Barnes,,CB,5110,198,JR/TR
+Mikal,Berry,,DE,6060,235,SO
+Doug,Blacksill,,C/OG,6050,286,SR
+Howard,Butler,,DB,6010,187,FR
+Michael,Carrizosa,,P,5100,229,SO
+Andre,Chachere,,CB,6000,193,SO
+Simon,Connette,,FS,5110,204,SR
+Thai,Cottrell,,WR,5070,172,FR
+Tim,Crawley,,WR/RB,5070,170,JR
+Chris,Dadson,,RB,6010,247,JR
+Stephan,Daniels,,WR,6020,182,JR
+Nick,Diaz,,OG,6030,299,JR
+Ryan,DiSalvo,,LS,6040,253,SR
+Tyler,Ervin,,RB,5100,177,SR
+Loni,Fa,,DT,6030,291,JR/TR
+Nate,Falo,,DT,6010,255,SR
+Billy,Freeman,,TE,6030,232,JR
+Frank,Ginda,,OLB,6010,236,FR
+Chris,Gonzalez,,C/OG,6030,295,SO
+Joe,Gray,,QB,6020,207,SR
+Darrion,Hancock,,RB,5090,205,JR/TR
+Christian,Hill,,DE,6040,259,SR
+Justin,Holmes,,WR,6020,214,FR
+Isaiah,Irving,,DE,6030,239,JR
+Chris,Kearney,,WR,5110,198,SR
+Jeremiah,Kolone,,OG,6030,285,RS SO
+Troy,Kowalski,,OT,6050,261,FR
+Brad,Kuh,,TE,6020,234,JR
+Jarrod,Lawson,,RB,5080,201,JR
+Jared,Leaf,,ILB,6020,240,SR/TR
+Rueben,LeaSau,,LB,6020,212,RS FR
+Ray,Lomas IV,,RB,5070,196,SO
+Austin,Lopez,,PK,6010,209,SR
+Cedric,Lousi,,DE,6030,261,SR
+Alex,Manigo,,OLB,6010,222,JR/TR
+Maurice,McKnight,,CB,6010,181,SO
+Vincente,Miles,Jr.,SS,6010,196,SR/TR
+Chad,Miller,,FS,6010,175,RS FR
+Travis,Miller,,NT,6040,291,SO
+Miles,Milner,,CB,5110,175,JR
+Brandon,Monroe,,RB,6010,229,SO
+LeVander,Moore,,TE,6040,222,JR/TR
+Drew,Mount,,S,5110,200,RS FR
+Lemaki,Musika,,DE,6010,265,JR
+Charles,Nelson,,OC/OG,6040,295,RS FR
+Nick,Oreglia,,DT,6030,280,JR
+William,Ossai,,OLB,6020,225,RS SO
+Tony,Popovich,,DT,6020,262,SR
+Kenny,Potter,,QB,6020,212,JT/TR
+Jimmy,Pruitt,,CB/SS,6000,203,SR
+Mitch,Ravizza,,QB,5100,185,JR
+Anthony,Rios,,LB,6020,213,SO/TR
+Hector,Roach,,LB,6010,231,SR
+Owen,Roberts,,DT,6020,266,RS FR
+Evan,Sarver,,OT,6050,282,JR
+Moses,Saucedo,,LB,6010,220,SR
+Wes,Schweitzer,,OT,6050,301,SR
+Shane,Smith,,RB,6020,238,JR
+Jourdan,Soares,,WR,6010,163,SO
+Epie,Sona,,LB,5110,234,RS JR/TR
+Matt,Spadaro,,OT,6050,253,RS FR
+Keenan,Sykes,,DT,6030,277,JR
+Christian,Tago,,OLB,6010,237,JR
+Michael,Talafus,,OG,6030,285,JR
+Eugene,Taylor,,DE,6030,233,JR
+Keoni,Taylor,,OC/OG,6030,293,SO
+Thomas,Tucker,,WR/RB,5100,197,RS SO
+Nate,Velichko,,OT,6070,300,RS SO
+Fernando,Villanueva,,OT,6070,298,JR
+Andrew,Vollert,,TE,6050,231,SO
+Cleveland,Wallace III,,CB,5110,177,JR/TR
+Aaron,Watkins,,LB,6010,219,JR
+Malik,Watson,,QB,6030,208,RS JR/TR
+David,Williams,,SS,6010,198,RS FR
+Hansell,Wilson,,WR,5090,183,SR
+Tyler,Winston,,WR,6020,191,JR
+Kyle,Wright,,OT,6070,291,RS JR/TR

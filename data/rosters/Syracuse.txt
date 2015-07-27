@@ -1,0 +1,76 @@
+first_name,last_name,suffix,position,height,weight,year
+Lucas,Albrecht,,DE,6020,251,Sr
+Eric,Anthony,,SS,6000,194,Jr.
+Luke,Arciniega,,DE,6040,247,RS Jr
+Sean,Avant,,WR,5100,201,RS So
+PJ,Batten,,TE,6030,239,RS So.
+Paris,Bennett,,WLB,6000,223,FR
+Ashton,Broyld,,RB,6040,216,Sr
+Jon,Burton,,OT,6080,307,RS So
+Rony,Charles,,NT,6020,309,Sr
+Antwan,Cordy,,SS,5080,178,So
+Alvin,Cornelius,,WR,6010,191,RS Jr
+Jamal,Custis,,TE,6050,223,So
+Keaton,Darney,,OT,6030,266,RS Fr
+Riley,Dixon,,PK/P,6050,222,RS Sr
+Juwan,Dowels,,CB,5010,179,RS Fr
+Trey,Dunkelberger,,TE,6050,235,So
+Jason,Emerich,,OC,6030,286,RS Jr
+Adly,Enoicy,,WR,6050,227,RS Fr
+Brisly,Estime,,WR,5090,176,Jr
+Donnie,Foster,,OC,6030,312,RS Fr.
+Ivan,Foy,,OT,6050,276,RS Sr
+Zaire,Franklin,,ILB,6000,231,So
+Jacob,Green,,TE,6010,250,Sr
+Troy,Green,,QB,6010,180,RS So
+Alex,Hayes,,OG,6020,290,RS So
+Taylor,Hindy,,OG,6040,309,Jr
+Nathan,Hines,,LS,6060,247,So
+Marqez,Hodge,,OLB,5110,216,Jr
+Cordell,Hudson,,CB,5110,175,RS Fr
+Terrel,Hunt,,QB,6030,233,RS Sr
+Steve,Ishmael,,WR,6020,200,So.
+Eric,Jackson,,CB,5090,171,Sr
+Matt,Keller,,LS,5110,213,RS Fr
+Hernz,Laguerre,,ILB,6010,226,Sr.
+Michael,Lasker,,OT,6040,306,Sr
+Ben,Lewis,,WR,6020,208,RS Jr
+AJ,Long,,QB,6000,177,RS So
+Cameron,MacPherson,,TE,6030,247,Sr
+Zack,Mahoney,,QB,6020,201,So
+Tyler,Marona,,DL,6040,258,So.
+Devante,McFarlane,,RB,6000,197,RS Jr.
+Jamar,McGloster,,OT,6070,310,RS So
+John,Miller,,OL,6020,308,RS JR
+Keith,Mitsuuchi,,LS,5100,226,Sr
+Kendall,Moore,,TE,6050,239,Jr.
+Wayne,Morgan,,CB,5110,187,Sr
+George,Morris II,,RB,6000,190,RS Jr
+Colton,Moskal,,LB,6000,212,RS Fr
+Cole,Murphy,,PK,6030,193,So
+Ryan,Norton,,PK,5110,183,Sr
+Omari,Palmer,,OG,6030,323,Jr.
+Josh,Parris,,TE,6040,244,RS So
+Alryk,Perry,,OLB,6010,218,So.
+Ervin,Phillips,,RB,5011,179,So
+Tyler,Provo,,TE,6020,223,RS So
+John,Raymon,,DE,6050,305,Sr.
+Johnathan,Raymon,,DT,6050,305,Sr
+Aaron,Roberts,,OG,6040,266,RS Fr
+Nick,Robinson,,OG,6060,292,RS Sr
+Kayton,Samuels,,NT,6000,306,RS Fr
+Chauncey,Scissum,,FS,6020,206,So.
+Seamus,Shanley,,OC,6010,276,RS Jr
+Donnie,Simmons,,DE,6020,258,RS Sr.
+Chris,Slayton,,DT,6040,289,RS Fr
+Joe,Stanard,,DB,5010,197,Jr
+Jonathan,Thomas,,LB,6010,205,So
+Ron,Thompson,,DE,6030,255,RS Jr
+Rob,Trudo,,OC,6040,307,RS Sr
+Oliver,Vigille,,OLB,6020,230,RS Sr.
+Denzel,Ward,,OT,6080,331,RS Fr
+Julian,Whigham,,CB,6010,187,Sr
+Rodney,Williams,,CB,5100,189,RS Fr
+Wayne,Williams,,NT,6040,326,Sr
+Austin,Wilson,,QB,6030,217,RS So
+Corey,Winfield,,WR,6010,180,RS So

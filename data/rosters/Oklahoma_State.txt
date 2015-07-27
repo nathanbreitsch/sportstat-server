@@ -1,0 +1,100 @@
+first_name,last_name,suffix,position,height,weight,year
+Britton,Abbott,,FB,6030,230,RS FR
+Gyasi,Akem,,OLB,6010,210,SO
+Marcell,Ateman,,WR,6040,210,JR-1L
+Devante,Averette,,ILB,6000,235,RS JR
+Taaj,Bakari,,DT,6020,275,FR
+Bryce,Balous,,S,5110,180,FR
+Dawson,Bassett,,TE,6040,228,RS SO
+Jimmy,Bean,,DE,6050,250,RS SR
+Corey,Bennett,,RB,5090,205,RS SR
+Jordan,Brailford,,DE,6030,225,RS FR
+Keenan,Brown,,WR,6030,205,RS FR
+Louis,Brown,,ATH,6050,210,FR
+Mark,Brown,,RB,5100,185,RS FR
+Jordan,Burton,,OLB,6030,215,JR
+Jeff,Carr,,RB,5700,170,FR
+Chris,Carson,,RB,6020,210,JR/TR
+Trey,Carter,,DE,6040,250,RS FR
+Kris,Catlin,,LB,6010,225,RS SR
+Rennie,Childs,,RB,5100,205,JR-1L
+Brian,Ciszewski,,LB,5110,188,RS FR
+Trace,Clark,,DE,6040,255,SR-2L
+Taylor,Cornelius,,QB,6060,184,RS FR
+Zachary,Crabtree,,OT,6070,290,RS SO
+C.J.,Curry,,WR,6020,205,JR-1L
+Darius,Curry,,CB,6010,190,RS SO
+Darrion,Daniels,,DT,6050,295,FR
+Eric,Davis,,DT,6030,290,JR-1L
+Kameron,Doolittle,,WR,5080,200,RS SR
+Josh,Elias,,LS,6000,195,RS SR
+Tyler,Ferguson,,DT,6010,270,RS FR
+Tre,Flowers,,SS,6030,190,RS SO
+Jordan,Frazier,,TE,6050,242,RS FR
+Lemaefe,Galea'i,,OG,6050,330,RS FR
+David,Glidden,,WR,5070,185,RS SR
+Za'Carrius,Green,,S/LB,6000,194,FR
+Ben,Grogan,,PK,6010,186,JR-1L
+Chris,Hardeman,,CB,5090,178,SO
+Dylan,Harding,,FS,6020,190,SO
+Austin,Hays,,WR,6020,185,JR-1L
+Colby,Hegwood,,OG,6050,320,SR
+Kevin,Henry,,S,6010,217,FR
+Matt,Hockett,,PK,6030,185,RS FR
+Ben,Hughes,,DT,6030,310,RS SO
+Victor,Irokansi,,DE,6030,240,JR
+Seth,Jacobs,,OLB,6020,220,JR-1L
+Blake,Jarwin,,TE,6050,240,JR
+Miketavius,Jones,,CB,5100,175,RS SR
+Matt,Kellerman,,OT,6050,295,JR/TR
+Kevin,King,,K,5100,175,RS JR
+John,Kolar,,QB,6040,190,FR
+Jack,Kurzu,,OG,6040,305,RS SO
+Chris,Lacy,,WR,6030,191,SO
+Ashton,Lampkin,,CB,5110,180,RS JR
+Vili,Leveni,,DE,6030,270,RS SO
+Paul,Lewis,,OC,6030,295,JR-1L
+Brad,Lundblade,,OC,6030,290,SO
+Josh,Mabin,,LB,6020,227,RS FR
+Todd,Mays,,RB,6000,195,JR/TR
+Jalen,McCleskey,,WR,5100,156,FR
+Kenneth,McGruder,,S,6010,190,FR
+Deya,Mhiesen,,OT,6080,295,JR/TR
+Jerel,Morrow,,SS,6000,180,RS SO
+Maile,Motekiai,,DT,6040,300,JR/TR
+Matthew,Mucha,,OL,6060,255,RS FR
+Caleb,Muncrief,,WR,5080,190,RS JR
+Cole,Neph,,WR,6030,205,RS FR
+Matthew,Newsome,,S,5110,165,RS FR
+Deionte,Noel,,OL,6030,300,RS FR
+Emmanuel,Ogbah,,DE,6040,270,RS JR
+Jarrell,Owens,,DE,6030,240,RS FR
+Sione,Palelei,,RB,5100,196,RS FR
+Brandon,Pertile,,OT,6050,295,JR/TR
+Kevin,Peterson,,CB,5110,185,SR-2L
+Justin,Phillips,,OLB,6000,215,SO
+Bryant,Reber,,CB,6000,185,SR
+Ramon,Richards,,CB,6000,180,SO
+Tre,Roberts,,S,6020,202,RS FR
+Deric,Robertson,,FS,6020,200,JR-1L
+Jesse,Robinson,,OG,6060,310,RS SO
+Mason,Rudolph,,QB,6040,217,SO
+Jaxon,Salinas,,OL,6040,305,RS SO
+Jhajuan,Seales,,WR,6020,198,JR-1L
+Jeremy,Seaton,,FB/TE,6020,250,SR-2L
+Vaimoe,Sekona,,OT,6030,280,FR
+Brandon,Sheperd,,WR,6010,195,SR-2L
+Ryan,Simmons,,ILB,6000,235,SR-2L
+Zach,Sinor,,P,5110,190,RS FR
+Kaleb,Smith,,LS,6030,250,RS SO
+Jordan,Sterns,,FS,6010,205,JR-1L
+Raymond,Taylor,,RB,5070,190,RS JR
+Vincent,Taylor,,DT,6030,290,RS SO
+Kirk,Tucker,,DB,6020,190,SO
+Zac,Veatch,,TE,6040,290,JR-1L
+J.W.,Walsh,,QB,6020,205,SR-2L
+Cole,Walterscheid,,DE,6060,210,RS FR
+James,Washington,,WR,6000,193,SO
+Chad,Whitener,,OLB,6010,240,RS SO
+Johnny,Wilson,,OT,6040,295,FR
+Michael,Wilson,,OT,6060,300,RS JR

@@ -1,0 +1,102 @@
+first_name,last_name,suffix,position,height,weight,year
+Adewale,Adeoye,,ILB,6040,235,RS FR
+Austin,Albrecht,,OT,6050,287,RS JR
+Ricky,Ali'ifua,,DE,6030,275,JR
+Chad,Artist,,WR,6020,172,FR
+Williams,Auwae,,OT,6040,270,FR
+Wesley,Bailey,,S,6020,190,JR TR
+Dalton,Baker,,TE-Y,6030,230,FR
+Jarom,Baldomero,,ILB,6000,230,SR
+Eric,Bernston,,DL,6040,266,RS JR
+Cody,Boyer,,OL,6060,260,RS FR
+Gerold,Bright,,RB,5900,172,FR
+Preston,Brooksby,,OT,6040,290,JR TR
+Devin,Centers,,CB,5090,190,RS JR
+Andrew,Chen,,OT,6030,271,RS SO
+Austin,Cheney,,CB,5090,190,JR/TR
+Chase,Christiansen,,LB,6020,210,RS FR
+Chris,Copier,,TE-Y,6050,250,JR TR
+Christian,Cronk,,OT,6050,288,FR
+Aaron,Dalton,,P,6040,220,RS FR
+Jalen,Davis,,CB,5100,160,SO
+Marquan,Ellison,,CB,5110,175,RS JR
+Marwin,Evans,,CB,6010,195,RS SR
+Kyler,Fackrell,,OLB,6050,245,SR
+Edmund,Faimalo,,DE,6030,290,SR/TR
+Dillon,Filiaga,,FB,5110,215,RS FR
+LT,Filiaga,,ILB,6000,250,SR/TR
+Taani,Fisilau,,OG,6020,293,SR
+Tyler,Floyd,,CB,5090,185,SR/TR
+Tyler,Fox,,WR,5110,170,RS FR
+Salanoa,Galea'i,,LS,6000,200,SR/TR
+Daniel,Gray,,CB,5110,170,RS JR
+Torrey,Green,,OLB,6020,220,SR
+Rashad,Hall,,RB,6010,200,RS SR
+Cameron,Haney,,ATH,5110,172,FR
+La'Bradford,Harold,,ILB,5110,225,SR
+Bryant,Hayes,,CB,5090,175,SR/TR
+Justin,Hervey,,RB,5090,180,RS FR
+Joe,Hill,,RB,5110,190,SR
+Deshane,Hines,,CB,5100,180,SR/TR
+Damion,Hobbs,,QB,6020,195,SO/TR
+Jude,Hockel,,OT,6050,300,JR TR
+Landon,Horne,,TE,6030,235,JR/TR
+Wyatt,Houston,,TE,6050,245,JR
+Alex,Huerta,,ILB,6020,223,RS SO
+LaJuan,Hunt,,RB,5080,185,SO
+Mark,Hutchinson,,LS,5110,200,SR
+Jarom,Ioane,,OT,6060,314,RS SO
+Clark,Jeppesen,,DE,6040,252,RS SO
+Karris,Johnson,,RB,5110,208,RS SO
+Chuckie,Keeton,,QB,6020,200,RS SR
+Harris,LaChance,,DE,6060,240,FR
+Daniel,Langi,,ILB,6000,220,FR
+Derek,Larsen,,LB,6030,215,RS FR
+Dallin,Leavitt,,S,5110,200,JR TR
+Kelvin,Lee,,RB,5100,187,SR
+Justin,Leeper,,LS,6020,230,RS FR
+Tonny,Lindsey,,RB,5090,177,JR/TR
+Devante,Mays,,RB,5110,220,JR TR
+Wade,Meacham,,OT,6050,270,FR
+David,Moala,,NG,6020,310,SR/TR
+Tyshon,Mosley,,OG,6050,305,RS SO
+Kent,Myers,,QB,6000,185,SO
+DJ,Nelson,,QB,5090,180,RS FR
+Jordan,Nielsen,,DE,6050,270,SR
+Michael,Okonkwo,,OLB,6010,222,SR
+Jentz,Painter,,CB,5080,170,RS JR
+Jordan,Parkinson,,DE,6060,245,SO/TR
+Logan,Rice,,OL,6060,225,RS FR
+Joe,Riggins,,OLB,6010,205,FR
+Braelon,Roberts,,WR,6030,173,RS SO
+Devonte,Robinson,,WR,6020,184,SR/TR
+Jontrell,Rocquemore,,SS,6020,185,RS FR
+Andrew,Rodriguez,,WR,5100,175,SR/TR
+Colby,Schow,,SS,6010,180,RS FR
+Gasetoto,Schuster,,NG,6010,280,RS FR
+Travis,Seefeldt,,NG,6020,302,SR
+Hunter,Sharp,,WR,6000,190,SR/TR
+Jake,Simonich,,OT,6050,286,RS JR
+Cade,Smith,,QB,6010,194,FR
+Austin,Stephens,,OC,6030,290,RS JR
+Brandon,Swindall,,WR,6040,198,SR
+Siua,Taufa,,DE,6010,260,JR/TR
+Brandon,Taukeiaho,,OG,6040,321,RS SO
+John,Taylor,,DE,6020,270,SR/TR
+Jake,Thompson,,PK,6000,200,JR
+Mason,Tobeck,,TE-H,6020,220,FR
+Ian,Togiai,,OLB,6020,230,SO
+Leki,Uaskie,,LB,5110,210,SR/TR
+KJ,Uluave,,DE,6040,255,RS FR
+Chris,Unga,,DT,6010,280,FR
+Zach,Van Leeuwen,,WR,6010,170,RS FR
+Nick,Vigil,,ILB,6020,230,RS JR
+Aaron,Wade,,SS,6020,180,RS FR
+Brock,Warren,,PK,6020,176,RS JR
+Tyler,Weese,,WR,6020,195,RS SO
+Hayden,Weichers,,WR,6000,170,RS SO
+Tyler,Wilemon,,OT,6050,290,JR TR
+Anthony,Williams,,OLB,6030,220,SR/TR
+Kennedy,Williams,,RB,5080,160,JR
+Tommy,Woo,,DE,6020,240,FR
+Ben,Wysocki,,OT,6040,285,JR TR

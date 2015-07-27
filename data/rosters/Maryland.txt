@@ -1,0 +1,85 @@
+first_name,last_name,suffix,position,height,weight,year
+Daniel,Adams,,WR,6020,205,RS JR
+Nate,Adams,,LS,6020,220,FR
+Banks,Agaruwa,,OG,6030,246,RS Fr.
+Jesse,Aniebonam,,DE,6040,248,So
+Roman,Braglio,,DE,6020,265,RS SO
+Jalen,Brooks,,OLB,6010,230,RS FR
+Wes,Brown,,RB,6000,200,SO
+Tyler,Burke,,LB,6030,247,RS Fr
+Chandler,Burkett,,DL,6030,230,RS FR
+Christian,Carpenter,,LS,5110,215,RS SO
+Antwaine,Carter,,FS,6020,180,So
+Jermaine,Carter,Jr.,ILB,6000,235,RS FR
+Sean,Christie,,OG,6040,310,RS Fr
+Undray,Clark,,DB,5090,195,JR.
+Shane,Cockerille,,QB,6020,220,RS FR
+Milan,Collins,,DB,6010,200,RS FR
+Brad,Craddock,,PK/P,6010,180,JR.
+Malcolm,Culmer,,WR,5110,190,SO
+Zach,Dancel,,S,6000,195,RS JR
+Sean,Davis,,S,6010,190,So.
+Brock,Dean,,ILB,6000,220,RS SO
+Elvis,Dennah,,S,6020,205,RS FR
+Ryan,Doyle,,OT,6040,300,JR
+JaJuan,Dulaney,,OG/OT,6020,290,RS FR
+Michael,Dunn,,OT,6050,295,RS SO
+Nnamdi,Egbuaba,,LB,6000,220,RS Fr
+Amba,Etta-Tawo,,WR,6010,190,RS SO
+Daniel,Ezeagwu,,SS,6000,200,So
+Ruben,Franco,,DE,6040,245,RS SO
+P.J.,Gallo,,TE,6020,250,RS SO
+Matt,Gillespie,,LB,6020,241,RS Fr
+Kenneth,Goins,Jr.,RB,5090,225,RS SO
+Andrew,Gray,,TE,6030,235,RS Fr
+Derwin,Gray,,OT,6050,300,FR
+Adam,Greene,,PK,5110,185,RS FR
+Stephen,Grommer,,OC,6040,290,JR.
+Derrick,Hayward,,TE,6050,230,RS FR.
+Alvin,Hill,,S,5110,200,JR
+Perry,Hills,,QB,6020,205,RS SO
+Andrew,Isaacs,,TE,6020,250,SO.
+Levern,Jacobs,,WR,5110,185,JR.
+Taivon,Jacobs,,WR,5090,150,RS FR
+Quinton,Jefferson,,DE,6030,275,JR.
+Malik,Jones,,NG/DE,6040,260,RS FR
+Brett,Kulka,,DE,6040,260,RS Fr
+DeAndre,Lane,,WR,5070,175,SO
+Marcus,Leak,,WR,6000,210,JR
+William,Likely,,CB,5070,175,SO.
+Abner,Logan,,ILB,6010,235,RS SO
+Joe,Marchese,,OL,6020,235,RS FR
+Brian,McMahon,,TE,6030,250,RS SO
+Tehuti,Miles,,RB,5100,200,RS SO
+Mike,Minter,,OG,6030,291,RS Fr.
+Brendan,Moore,,OC,6030,280,FR
+Zac,Morton,,WR,5110,175,RS Fr
+Evan,Mulrooney,,OG,6040,295,JR
+Yannick,Ngakoue,,OLB,6024,257,SO.
+Anthony,Nixon,,S,6010,205,JR
+Kingsley,Opara,,DE,6030,285,RS FR
+Damian,Prince,,OG,6030,325,RS Fr
+Nicholas,Pritchard,,P/PK,5090,210,Fr
+Albert,Reid,,RB,5090,210,JR
+Nathan,Renfro,,P/PK,6010,205,JR
+Joe,Riddle,,RB,6000,205,RS SO
+Eric,Roca,,TE,6020,235,RS FR
+Brandon,Ross,,RB,5100,210,JR.
+Jarrett,Ross,,CB,5090,195,SO.
+Caleb,Rowe,,QB,6030,205,JR.
+Oseh,Saine,,DT,6030,280,Fr
+David,Shaw,,NT,6040,290,FR
+Maurice,Shelton,,OL,6030,295,RS SO
+Lee,Shrader,,PT,6010,180,FR
+Andrew,Stefanelli,,RB,5100,235,SO.
+Avery,Thompson,,ILB,6020,220,JR.
+Ty,Tucker,,DL,6020,265,RS SO
+Azubuike,Ukandu,,DL,6000,300,RS SO
+Will,Ulmer,,WR,6000,194,RS Fr
+Jacquille,Veii,,RB,5090,181,SO.
+J.T.,Ventura,,DB,6010,195,RS FR
+Cavon,Walker,,OLB,6020,235,SO
+Michael,Washington,,DB,5090,180,RS SR
+Juwann,Winfree,,WR,6020,195,FR
+Josh,Woods,,CB,6010,190,FR
+Andrew,Zeller,,OG,6040,300,JR.

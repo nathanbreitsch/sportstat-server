@@ -1,0 +1,109 @@
+first_name,last_name,suffix,position,height,weight,year
+Ishmael,Adams,,CB,5080,190,RS JR
+Darren,Andrews,,WR,5100,180,JR
+Eli,Ankou,,NT,6030,290,RS JR
+Zach,Bateman,,OT,6070,305,JR TR
+Caleb,Benenoch,,OT/OG,6050,320,JR
+Jake,Brendel,,OC,6040,290,RS SR
+Cordell,Broadus,,WR,6020,192,FR
+Jayon,Brown,,ILB,6000,208,JR
+Sean,Burd,,ILB,6020,195,RS SR
+Michael,Carlson,,DB,6000,192,RS SO
+Chris,Clark,,TE-Y,6060,247,FR
+Kenny,Clark,,DT,6020,305,JR
+Justin,Combs,,CB,5070,170,RS JR
+Sean,Covington,,P/PK,6010,211,RS FR
+Colby,Cyburt,,OT,6030,270,RS JR
+Roosevelt,Davis,,RB,5030,155,RS SR
+Ryan,Davis,,RB,5080,195,RS JR
+Charles,Dawson,,DB,5100,180,JR
+Matt,Dickerson,,DE,6040,270,RS FR
+Thomas,Duarte,,WR,6030,221,JR
+Melvin,Emesibe,,RB,5090,192,RS SR
+Mike,Fafaul,,QB,6010,201,RS JR
+Ka'imi,Fairbairn,,PK,5110,185,SR
+Daniel,Fields,,WR,5090,180,RS SO
+Kylie,Fitts,,DE,6040,270,JR
+Stefan,Flintoft,,PK,6030,175,RS FR
+Tyler,Foreman,,S,6020,198,RS FR
+Devin,Fuller,,WR,5110,195,SR
+Randall,Goforth,,S,5100,190,RS JR
+Simon,Goines,,OT,6060,325,RS JR
+Tahaan,Goodman,,S,6020,189,JR
+Willie,Green,,ILB,6020,215,RS JR
+Peter,Hajimihalis,,LS,5060,185,RS SR
+Tevita,Halalilo,,OG,6050,346,FR
+Jake,Hall,,QB,6040,195,RS JR
+Sam,Handler,,WR,5100,187,RS JR
+Ahmaad,Harris,,WR,5040,165,RS JR
+Zach,Hernandez,,WR,6000,180,RS JR
+DeChaun,Holiday,,CB,6020,208,FR
+Deon,Hollins,,OLB,6000,216,JR
+Carl,Hulick,,C,6020,278,RS JR
+Nate,Iese,,TE/HB,6030,243,RS JR
+Myles,Jack,,OLB/RB,6010,225,JR
+Soso,Jamabo,,ATH,6020,206,FR
+Andre,James,,OT,6050,278,FR
+John,Johnson,,S,5090,185,RS SO
+Mossi,Johnson,,WR,6000,185,SO
+Stephen,Johnson,,ATH,5110,188,FR
+Jake,Jones,,DE,6040,235,RS JR
+Cameron,Judge,,ILB,6010,218,RS SO
+Kenny,Lacy,,OG,6040,290,RS SO
+Taylor,Lagace,,ILB,6000,208,RS JR
+Craig,Lee,,RB,6000,188,RS SO
+Will,Lockett,,CB,6000,182,FR
+Christopher,Longo,,LS,6030,204,RS SR
+John,Lopez,,OG,6050,325,RS SO
+Devin,Lucien,,WR,6000,195,RS JR
+Keisean,Lucier-South,,DE,6050,218,FR
+Dylan,Luther,,DB,5110,192,RS JR
+Steven,Manfro,,RB,5090,189,RS SR
+Eldridge,Massington,,WR,6010,205,RS SO
+Ellis,McCarthy,,DT/DE,6045v,338v,SR
+Conor,McDermott,,OT,6080,277,RS SO
+Takkarist,McKinley,,DE,6030,225,JR
+Kevin,McReynolds,,OG,6020,300,RS SR
+Matt,Mengel,,PT/KO,6020,210,SR TR
+Poasi,Moala,,OT,6040,265,RS SO
+Fabian,Moreau,,CB,6000,193,SR
+Meadors,Nathan,,ATH,6000,179,FR
+Jerry,Neuheisel,,QB,6010,192,RS JR
+Bolu,Olorunfunmi,,RB,5100,213,FR
+Kenny,Orjioke,,OLB,6040,240,SR
+Jalen,Ortiz,,WR,5090,176,JR
+Jordan,Payton,,WR,6010,212,SR
+Paul,Perkins,,RB,5100,196,RS JR
+Adarius,Pickett,,S,6000,185,RS FR
+Scott,Quessenberry,,OC/OG,6030,288,JR
+Alex,Redmond,,OG,6050,305,JR
+Marcus,Rios,,CB,5110,180,RS JR
+Ron,Robinson,,DB,6020,197,RS SO
+Josh,Rosen,,QB,6040,206,FR
+Colin,Samuel,,CB,6030,186,FR
+Isaako,Savaiinaea,,ILB,6020,230,SO
+Thomas,Schwab,,DL,6030,243,RS SO
+Tyler,Scott,,WR,6020,212,RS SR
+Adam,Searl,,P,6010,180,RS SO
+Octavius,Spencer,,WR,5110,165,FR
+Andre,Sterling,,LB,6000,205,RS FR
+Logan,Sweet,,WR,6000,188,RS SR
+Sam,Tai,,DE,6020,265,RS SR
+Ian,Taubleer,,DL,6040,240,RS JR
+Najee,Toran,,OG,6030,275,SO
+Fred,Ulu-Perry Jr.,,OG,6030,307,FR
+Eddie,Vanderdoes,,DT/DE,6040,305,JR
+Zach,Vinci,,DL,6010,240,RS SR
+Rick,Wade,,DE,6060,229,FR
+Jaleel,Wadood,,S,5100,175,FR
+Kenneth,Walker,,WR,5100,180,RS So.
+Aaron,Wallace,,OLB,6020,240,JR
+Joshua,Wariboko,,OG,6040,315,FR
+Christian,Wehrly,,RB,5100,198,RS SO
+Zach,Whitley,,LB,6010,218,RS FR
+Priest,Willis,,CB,6020,185,JR
+Josh,Woods,,OLB,6030,200,FR
+Asiantii,Woulard,,QB,6030,205,RS SO
+Ben,Wysocki,,OG,6040,280,RS SR
+Kenny,Young,,ILB,6010,230,SO
+Erick,Zumwalt,,CB,5110,172,RS SR

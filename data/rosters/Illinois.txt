@@ -1,0 +1,103 @@
+first_name,last_name,suffix,position,height,weight,year
+Sean,Adesanya,,LEO,6030,230,JR
+Nick,Allegretti,,OG,6040,300,RS FR
+Geronimo,Allison,,WR,6030,185,SR
+Jake,Angona,,OL,6030,275,RS FR
+Robbie,Bain,,NT,6030,300,JR
+Raphael,Barr,,WR,6020,190,SO
+Taylor,Barton,,S,6010,215,JR
+Avery,Bass,,K,5100,250,FR
+B.J.,Bello,,ILB,6030,215,JR
+V'Angelo,Bentley,,CB,5100,190,SR
+Harry,Black,,OL,6050,250,SO
+Chris,Boles,,OL,6040,320,SR
+Connor,Brennan,,OG,6050,285,JR
+Dre,Brown,,RB,5110,200,FR
+Desmond,Cain,,WR,5110,180,FR
+Dillan,Cazley,,CB,5100,190,JR
+Tim,Clary,,TE,6010,245,SR
+Jarrod,Clements,,DT,6030,285,JR
+Reggie,Corbin,,RB,5100,185,FR
+James,Crawford,,SS/OLB,6020,205,SO
+Chayce,Crouch,,QB,6040,225,RS FR
+Andrew,Davis,,TE,6060,225,JR
+Trenard,Davis,,DB,5110,190,FR
+Caleb,Day,,CB,6010,195,JR
+Christian,DiLauro,,NT,6050,280,SO
+Cedric,Doxy,,WR,6010,200,JR
+Mike,Dudek,,WR,5110,180,SO
+Jaylen,Dunlap,,CB,6010,175,SO
+Nathan,Echard,,LB,6020,215,SO
+Henry,Enyenihi,,RB,5110,210,JR
+Jordan,Fagan,,OL,6060,285,SO
+Clayton,Fejedelem,,S,6010,190,SR
+Josh,Ferguson,,RB,5100,195,SR
+Eric,Finney,,SS/OLB,6010,215,SR
+Jimmy,Fitzgerald,,QB,6030,220,FR
+Pat,Flavin,,OT,6070,300,SR
+Kendrick,Foster,,RB,5090,195,SO
+Joe,Fotu,,DT,6030,275,SR
+Ryan,Frain,,PK/P,6020,220,JR
+Kameron,Fry,,WR,6010,200,JR
+Jeff,George Jr.,,QB,6030,190,FR
+Zach,Grant,,WR,5110,190,JR
+Justin,Hardee,,WR,6010,195,SR
+Samuel,Harlib,,DB,6000,175,SO
+Zach,Heath,,OC,6040,290,JR
+Zach,Hirth,,LS,6040,220,JR
+Julian,Hylton,,DB,6000,190,RS FR
+Chris,James,,DB,5110,185,RS FR
+Paul,James III,,DL,6040,240,SO
+Ainslie,Johnson,,TE,6020,225,JR
+Julian,Jones,,LB,6020,210,FR
+Ted,Karras,,OG,6040,300,SR
+Darwyn,Kelly,,S,6010,200,SO
+Jevaris,Little,,FS,6010,185,JR
+Nelson,Lugo,,DB,5110,200,JR
+Wes,Lunt,,QB,6050,215,JR
+Michael,Martin,,LS,6040,225,JR
+Zeke,Martin,,OL,6050,275,FR
+Sam,Mays,,WR,6030,200,FR
+Henry,McGrew,,LB,6030,235,RS FR
+Gabe,Megginson,,OL,6050,300,FR
+Jamal,Milan,,DL,6020,310,FR
+Mason,Monheim,,OLB,6010,235,SR
+Darius,Mosely,,CB,5110,185,JR
+TJ,Moss,,RB,5110,195,RS FR
+Marchie,Murdock,,WR,6010,190,SO
+T.J.,Neal,,ILB,6010,235,JR
+Kenny,Nelson,,DE,6060,250,SR
+Patrick,Nelson,,DB,6000,205,FR
+James,Nudera,,TE,6010,230,SR
+Chris,O'Connor,,OG,6050,295,SR
+Tito,Odenigbo,,DL,6030,280,RS FR
+Carroll,Phillips,,LEO,6030,225,JR
+Leslie,Poole,,WR,5110,185,SR
+Teko,Powell,,DL,6030,295,JR
+Caleb,Reams,,TE,6030,250,FR
+David,Reisner,,PK,6000,185,JR
+Austin,Roberts,,LB,6020,230,RS FR
+Brandon,Roberts,,DL,6030,250,SO
+Austin,Schmidt,,OT,6060,285,JR
+Conner,Schmidt,,LB,5110,190,SO
+Dawuane,Smoot,,DE,6030,250,JR
+Adam,Solomon,,OL,6050,300,FR
+Eaton,Spence,,CB,6000,185,SR
+Joe,Spencer,,OG,6040,300,JR
+Tyrin,Stone-Davis,,WR,6030,195,JR
+Frank,Sumpter,,DB,5100,175,FR
+Mike,Svetina,,OLB,6020,235,JR
+Dionte,Taylor,,WR,6000,180,JR
+Dennis,Thurow,,DB,6010,200,SO
+Cameron,Tucker,,RB,5080,200,SR
+Ryan,Tucker,,P,6030,185,RS FR
+Malik,Turner,,WR,6030,205,SO
+Ke'Shawn,Vaughn,,RB,5100,200,FR
+LaKeith,Walls,,LB,6020,210,JR
+Jihad,Ward,,DE,6060,285,SR
+Cameron,Watkins,,DB,6000,180,FR
+Tre,Watson,,LB,6020,240,RS FR
+Sean,White,,LB,5110,230,JR
+Tyler,White,,TE,6050,245,JR
+Justice,Williams,,LB,6030,200,FR
+Taylor,Zalewski,,PK,6030,220,SR

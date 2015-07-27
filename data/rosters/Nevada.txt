@@ -1,0 +1,88 @@
+first_name,last_name,suffix,position,height,weight,year
+Joey,Anglemire,,OG,6030,280,SO
+Alex,Bertrando,,ILB,6020,215,JR
+Alex,Boy,,PT,6030,195,JR
+James,Butler,,RB,5090,200,SO
+Teré,Calloway,,SS,5100,190,SO
+Shane,Cannon,,OL,6050,260,JR
+Austin,Carrow,,TE,6030,240,JR
+Andrew,Celis,,WR,5110,185,RS FR
+Patrick,Choudja,,DE,6030,225,SO
+Colton,Concellos,,LB,6030,220,JR
+Austin,Corbett,,OT,6030,280,SO
+Ziad,Damanhoury,,OT,6060,290,SO
+Nolan,Dambacher,,DE,6030,245,JR
+Jimbo,Davis,,WR,5100,170,SO
+Wyatt,Demps,,WR,6040,200,SO
+Jordan,Dobrich,,ILB,6020,235,SR
+Daren,Echeveria,,OG,6050,270,RS FR
+Jonathan,Eitzman,,OL,6030,260,SO
+Faigofie,Faaituala,,OLB,6010,225,SR
+Salesa,Faraimo,,NT,6020,275,JR
+Austin,Fletcher,,LB,6000,200,RS FR
+Hunter,Fralick,,QB,6020,210,RS FR
+Jarred,Gipson,,TE,6010,240,JR
+Nathan,Goltry,,OC,6020,305,SR
+Victor,Gonzalez,,WR,6000,170,FR
+Hasaan,Henderson,,WR,6050,220,JR
+Jacob,Henry,,OT,6040,260,JR
+Don,Jackson,,RB,5100,210,SR
+L.J.,Jackson,,DB,6000,200,JR
+Kendall,Johnson,,CB,6000,180,SO
+Lenny,Jones,,DE,6030,270,SR
+Jarid,Joseph,,LB,6020,220,RS FR
+Adam,Khouri,,OG,6030,295,SO
+David,Kruskamp,,DB,6000,170,SO
+Jake,Lacaden,,LB,5110,215,RS FR
+Bryan,Lane Jr.,,OLB,6040,220,SR
+Malcom,Lee,,WR,6030,190,RS FR
+Humberto,Lopez,,OT,6050,305,JR
+Matthew,Lyons,,OLB,6020,230,SR
+Marc,Ma,,DE,6020,220,RS FR
+Jeremy,Macauley,,OG,6010,305,JR
+Trent,Mahler,,LB,6010,210,JR
+Danté,Mayes,,QB,6020,190,SO
+Tully,McCalister,,DB,5110,200,RS FR
+Mat,McDermand,,OL,6050,265,FR
+Tucker,Melcher,,WR,6010,180,SO
+Kalei,Meyer,,DL,6010,285,RS FR
+Jeremy,Miller,,DT,5110,300,SR
+Elijah,Mitchell,,CB,5080,180,JR
+Matt,Moen,,TE,6030,240,SO
+Elijah,Moody,,CB,5110,175,RS FR
+Kelton,Moore,,RB,5110,200,FR
+Ahki,Muhammad,,CB,5090,180,RS FR
+Thomas,Newton,,OC,6010,240,SO
+Malik,Reed,,DE,6010,220,RS FR
+Jerico,Richardson,,WR,5110,190,JR
+Kameron,Richardson,,WR,6070,230,JR
+Brent,Roling,,OL,6060,300,SR
+Kyle,Rothschiller,,LB,5110,200,SO
+Asauni,Rufus,,FS,6000,185,RS FR
+Korey,Rush,,DE,6010,260,RS FR
+Brayden,Sanchez,,WR,5110,200,JR
+Jaden,Sawyer,,DB,6000,190,SO
+Brandon,Scott,,TE,6030,225,RS FR
+Ian,Seau,,DE,6020,255,SR
+Jordan,Silva,,DE,6040,240,RS FR
+Jerimiah,Sims,,WR,6000,175,JR
+Cristian,Solano,,QB,6010,170,FR
+Chad,Specht,,OL,6050,305,RS FR
+Devoreaux,Stewart,,DB,5100,200,JR
+Tyler,Stewart,,QB,6040,220,JR
+Derrick,Stom,,OG,6020,290,JR
+Kevin,Sundberg,,NT,6010,290,SO
+Trevor,Taft,,LB,6020,220,SR
+Ricky,Thomas Jr.,,LB,6010,200,FR
+Brandon,Thompson,,WR,6020,185,RS FR
+Dustin,Treick,,QB,6000,180,JR
+Randy,Uzoma,,CB,6010,205,JR
+Lucas,Weber,,RB,6010,195,RS FR
+Trae,Wells,,WR,6020,190,RS FR
+Travis,Wilson,,LB,6010,200,SO
+Tyler,Wilson,,LS,5110,220,JR
+Duran,Workman,,SS,6000,200,SR
+Blake,Wright,,RB,5100,200,SO
+Rykeem,Yates,,DT,6020,270,SR
+Jake,Young,,QB,6000,215,RS FR
+Brent,Zuzo,,PK,5100,175,JR

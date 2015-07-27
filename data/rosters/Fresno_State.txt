@@ -1,0 +1,72 @@
+first_name,last_name,suffix,position,height,weight,year
+Justin,Allen,,WR,6000,170,RS FR
+Ryan,Alvarez,,DB,,,RS FR
+Kilton,Anderson,,QB,6030,207,SO
+Bo,Bonnheim,,OC,6020,283,SR
+Stratton,Brown,,FS,6010,186,JR
+Jeff,Camilli,,ILB,6030,263,JR
+Elijah,Cox,,OL,6040,274,SO
+Dylan,Detwiler,,LS,6010,217,SR
+Ejiro,Ederaine,,OLB,6030,221,SR
+Shannon,Edwards,,FS,5110,191,SR
+Jamal,Ellis,,CB,5110,174,JR
+Suli,Faletuipapai,,DE,6040,250,SR
+Alex,Fifita,,OT,6040,303,SR
+Darrell,Fuery,,WR,6000,195,SO
+Art,Gomez,,OL,6050,285,RS FR
+Anthony,Grayson,,WR,6010,165,RS FR
+Justin,Green,,OLB,6030,183,SO
+Zack,Greenlee,,QB,6010,200,SO
+Delvon,Hardaway,,WR,6010,191,SO
+George,Helmuth,,LB,6020,220,RS FR
+Kyle,Hendrickson,,DE,6040,253,RS FR
+Jacob,Hicks,,OG,6050,308,RS FR
+Brandon,Hughes,,OLB,6030,216,JR
+Todd,Hunt,,DE,6030,263,SR
+Bobby,Johnson,,OT,6050,300,RS FR
+Justin,Johnson,,WR,6010,207,SR
+KeeSean,Johnson,,WR,6010,179,RS FR
+Dalen,Jones,,SS,6010,196,JR
+Jamire,Jordan,,WR,5110,170,RS FR
+Anthoula,Kelly,,CB,5110,177,RS FR
+Kody,Kroening,,P,5100,150,SO
+Michael,Lazarus,,ILB,6020,233,SO
+Claudell,Louis,,DE,6040,292,SR
+Nathan,Madsen,,NG,6040,275,SO
+Michael,Martens,,WR,6020,190,JR/TR
+Malique,Micenheimer,,RB,6010,239,RS SR
+Aaron,Mitchell,,OG,6020,291,SO
+Chris,Moliga,,ATH,5110,205,RS FR
+Gabe,Newman,,DE,6050,241,RS SO
+James,Noble III,,RB,5060,176,SO
+Justin,Northern,,OT,6050,285,SR
+Dejonte,O'Neal,,RB,,,FR
+Kyrian,Obidiegwu,,DB,5110,207,SR
+Tobenna,Okeke,,ILB,6020,210,SO
+Chad,Olsen,,TE,6050,222,SO
+Eric,Ortiz,,LB,6020,255,RS SO
+David,Patterson,,OT,6040,284,SO
+Aaron,Peck,,WR,6030,213,SR
+DeShawn,Potts,,DB,5110,183,RS FR
+Tyler,Puccio,,DL,6020,295,RS FR
+DJ,Reed,,DB,5100,175,RS FR
+Kyle,Riddering,,TE,6060,221,RS FR
+Jaamal,Rose,,OLB,6020,229,SR
+Ben,Simonds,,OC,6040,262,RS FR
+Micah,St. Andrew,,OG,6040,345,RS FR
+Robert,Stanley,,OLB,6030,224,SO
+Ryan,Steele,,NG,6000,271,SO
+Garrett,Swanson,,K/P,6000,217,SR
+David,Tangipa,,TE,6040,217,RS FR
+Xavier,Ulutu,,ILB,6010,248,SO
+Stephen,Van Hook,,OLB,6010,236,SO
+Jacob,Vazquez,,OG,6020,283,JR
+Justin,Verrell,,LS,6020,197,RS JR
+Chason,Virgil,,QB,6010,170,FR
+Marteze,Waller,,RB,5110,209,SR
+Charles,Washington,,SS,5110,197,SR
+Jordan,Washington,,WR,6010,175,RS FR
+Malcolm,Washington,,CB,6020,165,SO
+Keyan,Williams,,WR,5100,182,RS FR
+Kyrie,Wilson,,ILB,6020,238,SR
+Alan,Wright,,SS,6010,185,JR/TR

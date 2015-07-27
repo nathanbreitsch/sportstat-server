@@ -1,0 +1,75 @@
+first_name,last_name,suffix,position,height,weight,year
+Mehdi,Abdesmad,,DT,6070,286,Sr.
+Louie,Addazio,,TE,6030,252,Sr.
+Sherman,Alston,,WR,5060,163,So.
+Jon,Baker,,OG,6030,293,So.
+Drew,Barksdale,,WR,5110,198,Jr.
+Kevin,Bletzer,,LB,6020,217,So.
+Nolan,Borgersen,,WR,6030,200,Fr
+Dave,Bowen,,OT,6070,289,Sr.
+Sean,Burke,,FB,5110,237,Jr.
+Charlie,Callinan,,WR,6040,224,RS So.
+A.J.,Caruso,,FB,6010,234,Sr.
+Jim,Cashman,,OT,6070,302,RS JR.
+Austin,Chapman,,TE,6030,232,RS Fr
+Kevin,Cohee Jr.,,DL,6020,257,So.
+Ryan,Conte,,OT,6040,286,RS Fr
+Jack,Cottrell,,DE,6040,247,RS So.
+Cameron,Croteau,,TE,6040,243,Jr.
+Steven,Daniels,,ILB,6000,257,Sr.
+Allen,Dawson,,DB,6000,191,So.
+Nat,Dixon,,WR,6030,185,So.
+David,Dudeck,,RB,5110,194,Sr.
+Michael,Fischer,,LS,6000,221,Jr.
+Troy,Flutie,,QB,6000,182,So.
+E.J.,Fortenberry,,DB,5090,166,So.
+Paul,Gaughan,,C,6060,300,So.
+Michael,Giacone,,TE,6050,254,Sr.
+Truman,Gutapfel,,DT,6030,281,Jr.
+James,Hendren,,OT,6070,293,So.
+Jon,Hilliman,,RB,6000,224,So.
+Alex,Howell,,P/K,6050,214,Sr.
+Harrison,Jackson,,WR,6020,207,Sr.
+John,Johnson,,CB,6000,198,Jr.
+Tim,Joy,,LB,6010,223,Sr.
+Kevin,Kavalec,,DE,6020,253,Jr.
+Jack,Kenny,,DE,6030,257,So
+Mike,Knoll,,K/P,6000,207,So.
+Harold,Landry,,DE,6030,245,So.
+Joey,Launceford,,PK,5100,193,Sr.
+Christian,Lezzer,,OLB,6000,215,So.
+Nick,Lifka,,DT,6020,272,GS.
+Chris,Lindstrom,,OT,6040,260,Fr
+Jimmy,Martin,,LB,5110,220,Fr
+Gabriel,McClary,,WR,6030,204,So.
+Noa,Merritt,,NT,6000,268,So.
+Matt,Milano,,OLB,6010,218,Jr.
+Kamrin,Moore,,CB,5110,192,So.
+Malachi,Moore,,DE,6070,273,Sr.
+Atem,Ntantang,,CB,5110,193,RS So.
+Marcus,Outlow,,RB,5100,203,So.
+Joel,Rich,,CB,6030,282,RS So.
+Elijah,Robinson,,QB,6020,187,Fr
+Tyler,Rouse,,RB,5080,194,Jr.
+Sam,Schmal,,OC,6060,294,So.
+Ty,Schwab,,OLB,6010,221,So.
+Cameron,Seward,,SS,6000,223,So.
+Justin,Simmons,,FS,6030,201,Sr.
+Leonard,Skubal,,LS,5100,193,RS Jr.
+Thaddius,Smith,,WR,5090,175,So.
+Austin,Stevens,,OL,6030,270,So.
+Connor,Strachan,,ILB,6020,230,So.
+Mike,Strizak,,DE,6020,239,RS Jr.
+Tom,Sweeney,,TE,6050,246,So.
+Bobby,Swigert,,WR,6000,199,RS Sr.
+Frank,Taylor,,OC,6030,289,RS Jr.
+Joseph,Vitiello,,DL,6040,262,So.
+Darius,Wade,,QB,6000,204,So.
+Jake,Wilhelm,,PK,5080,152,RS So.
+Harris,Williams,,OG,6030,296,Sr
+Myles,Willis,,RB,5090,194,Jr.
+Richard,Wilson,,RB,5100,224,So.
+Bobby,Wolford,,FB,6020,248,RS Jr.
+Connor,Wujciak,,DT,6030,300,GS
+Isaac,Yiadom,,DB,6010,184,So.
+Joel Karim,Zoungrana,,DB,6000,200,Jr.

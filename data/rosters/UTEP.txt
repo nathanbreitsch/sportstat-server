@@ -1,0 +1,105 @@
+first_name,last_name,suffix,position,height,weight,year
+Tyler,Batson,,WR,6000,200,SO
+Kalon,Beverly,,DB,6010,175,FR
+Chance,Bishop,,OL,6060,310,FR
+Gino,Bresolin,,NT,6020,290,JR
+Jerrod,Brooks,,OL,6050,330,RS FR
+Jerrell,Brown,,DB,60101,175,FR
+Trey,Brown,,OB,6000,225,SR
+Mookie,Carlile,,DB,6010,200,RS FR
+Daniel,Carrillo,,LB,5110,220,RS JR
+Michael,Castle,,OL,6010,300,RS FR
+Kristopher,Christian,,LB,5110,240,RS FR
+Devin,Cockrell,,SS,5110,190,JR
+Vince,Czerniewski,,NT,6000,275,SR
+Jerome,Daniels,,OG,6030,305,JR
+John,De La Rosa,,OT,6060,315,JR
+Foster,Dixson,,DL,6050,235,FR
+Nick,Dooley,,LS,6080,310,SR
+LaQuintus,Dowell,,RB,5100,205,SR
+Derek,Elmendorff,,OG,6030,310,RS SO
+Luke,Elsner,,DE,6030,250,RS SO
+Silas,Firstley,,DT,6010,265,JR
+Kelvin,Fisher Jr.,,CB,5110,200,SR/TR
+Stephen,Forester,,LB,6010,230,FR
+Cooper,Foster,,OB,6010,210,JR
+Fowler,Freund,,LS,5080,200,FR
+Cole,Freytag,,WR,6020,195,RS JR
+Derron,Gatewood,,OC,6030,315,RS FR
+Autrey,Golden,,RB,5110,180,SR
+Josiah,Gray,,OL,6040,290,FR
+Ruben,Guerra,,OL,6040,290,FR
+Christian,Harper,,OT,6040,290,JR
+Ishmael,Harrison,,CB,6000,200,SR
+Leon,Hayes,,FS,5100,200,JR
+Matthew,Heard,,DL,6030,225,SR/TR
+Will,Hernandez,,OG,6030,330,RS SO
+Gene,Hopkins,,DL,6030,245,FR
+Treyvon,Hughes,,RB,6010,225,FR
+Adrian,Hynson,,FS,5100,185,RS FR
+David,Jackson,,LB,5100,225,JR/TR
+Kavika,Johnson,,QB,6010,205,FR
+Aaron,Jones,,RB,5100,205,JR
+Alvin,Jones,,OLB,5100,220,RS SO
+Chris,Jones,,OG,6010,300,RS FR
+Terry,Juniel,,WR,5100,170,SO/TR
+Dylan,Kittrell,,WR,6020,190,SO/TR
+Anthony,Kyles,,OL,6030,300,JR/TR
+Cedrick,Lang,,TE,6090,285,SR
+Darrin,Laufasa,,RB,6010,250,JR
+Jeremia,Laufasa,,RB,6000,225,SR/TR
+Eric,Lee,,OC,6010,305,SR/TR
+Mack,Leftwich,,QB,5100,190,SO
+Michael,Lewis,,DB,5110,170,FR
+Omar,Lloyd,,DB,5100,185,FR
+Sky,Logan,,DL,6020,285,SO/TR
+Markos,Lujan,,OL,6030,325,FR
+Alan,Luna,,K/P,6000,190,RS FR/TR
+Brian,Madunezim,,DE,6030,275,RS JR
+Jay,Mattox,,K/P,6000,185,JR
+Hunter,McEachern,,QB,6020,200,RS FR
+M.J.,McFarland,,TE,6040,250,SR/TR
+Ryan,Metz,,QB,6040,205,RS FR
+Christopher,Misaalefua,,OT,6050,355,RS FR
+Lawrence,Montegut,,LB,6010,230,SO
+Jean-Andre,Moore,,WR,6010,180,SO/TR
+Brandon,Moss,,WR,6030,190,JR
+Jimmy,Musgrave,,IB,6000,240,SR/TR
+Sterling,Napier,,TE,6040,255,SO
+Nik,Needham,,DB,5110,185,RS FR
+Elliott,Oldham,,WR,6030,195,JR/TR
+Ricky,Olivas,,RB,5110,190,FR
+Chrys,Ortega,,OL,6010,295,FR
+Hayden,Plinke,,TE,6040,255,JR/TR
+Robert,Pufahl,,OL,5110,275,FR
+Erik,Ramirez,,OG,6030,285,RS SO
+Warren,Redix,,WR,5100,185,FR
+Da'Carlos,Renfro,,CB,5100,175,SR
+Christian,Richardson,,DL,6030,300,FR
+Devante,Richardson,,NT,6020,290,RS JR
+Traun,Roberson,,CB,6000,195,RS SR
+Roy,Robertson-Harris,,DE,6070,255,SR
+Natanael,Rodriguez,,SS,6010,200,SR
+Cole,Rogers,,TE,6040,235,RS SO
+Armando,Saldana,,DL,6000,285,FR
+Noah,Siegrist,,RB,5090,185,RS FR
+Daniel,Siller,,DB,6010,200,SR/TR
+Josh,Silvas,,C,6040,375,SR/TR
+Devin,Simmons,,DB,6000,230,SO/TR
+Garrett,Simpson,,QB,6070,250,JR
+Dashone,Smith,,FS,6000,200,JR
+Mike,Sota,,DT,6040,285,RS FR
+Sloan,Spiller,,RB,6000,225,RS FR
+Mikael,Sroka,,K/P,5100,185,RS SO
+Cole,Staudt,,RB,6000,235,JR/TR
+Nathan,Stukes,,LB,5110,205,SR/TR
+Justen,Tatum,,OB,6010,240,RS FR
+Chris,Thomas,,OG,6040,300,JR
+Chris,Thummel,,OL,6040,280,RS SO
+Augie,Touris,,DE,6040,260,RS FR
+Trent,Trammell,,DB,6000,200,SR/TR
+Nick,Usher,,DE,6030,240,JR
+Jayson,VanHook,,LB,6030,200,FR
+Alex,Villarreal,,DT,6040,300,SR/TR
+Donovan,Walker,,WR,6000,180,SO
+Jaquan,White,,WR,5110,200,RS JR

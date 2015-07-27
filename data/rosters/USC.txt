@@ -1,0 +1,127 @@
+first_name,last_name,suffix,position,height,weight,year
+Kris,Albarado,,P,5100,200,RS SR
+Joey,Augello,,DT,6000,285,SR
+Jordan,Austin,,OT,6050,275,RS FR
+Zach,Banner,,OT,6090,345,RS JR
+Jack,Basalari,,P,6000,170,RS SO
+Quinn,Bassler,,OT,6060,280,SO
+Kenny,Bigelow,,DT,6030,300,RS SO
+Matt,Boermeester,,PK,6000,185,JR
+Christian,Bradley,,DE,6020,210,SR
+Alex,Bridgford,,QB,6030,205,RS JR
+Chris,Brown,,OT,6050,295,SO
+Max,Browne,,QB,6050,215,RS SO
+Reid,Budrovich,,P,6000,180,SO
+Charles,Burks,,OLB,5110,230,RS SR
+Deontay,Burnett,,WR,6000,151,FR
+Kevin,Carrasco,,CB,6010,180,JR
+Jalen,Cope-Fitzpatrick,,TE,6040,255,SR
+Su'a,Cravens,,SS,6010,215,JR
+Jacob,Daniel,,DT,6040,305,FR
+Sam,Darnold,,QB,6040,209,FR
+Dominic,Davis,,S,5100,175,FR
+Justin,Davis,,RB,6010,200,JR
+Ryan,Dillard,,CB,5090,180,SR
+Bryce,Dixon,,TE,6040,240,SO
+Rob,Dooley,,S,6000,200,RS JR
+Malik,Dorton,,DE,6020,250,SO
+Chuma,Edoga,,OT,6040,283,FR
+Nico,Falah,,OT,6060,285,RS SO
+George,Farmer,,WR,6010,210,RS SR
+Scott,Felix,,OLB,6020,230,RS JR
+Robert,Flewellling,,WR-TE,6060,200,RS JR
+Joel,Foy,,ILB,6020,225,RS SO
+Rasheem,Green,,DT,6050,290,FR
+Jalen,Greene,,QB,6030,195,SO
+Porter,Gustin,,ATH,6040,238,FR
+Christian,Guzman,,WR,6030,220,RS SO
+DeQuan,Hampton,,WR,6040,220,JR TR
+Joe,Harding,,S,510,180,RS FR
+Ajene,Harris,,WR,5110,180,SO
+Pat,Hart,,FB,6010,225,RS SO
+Chris,Hawkins,,CB,5110,185,RS SO
+Ryan,Henderson,,CB,5100,170,RS SR
+Roy,Hensley,,OT,6050,285,FR
+Don,Hill,,OLB,6040,235,SO
+John,Houston Jr.,,ILB,6030,207,FR
+Michael,Hutchings,,ILB,6020,215,JR
+Ty,Isaac,,RB,6030,225,RS SO
+Adoree,Jackson,,WR,5110,185,SO
+Noah,Jefferson,,DT,6050,280,FR
+Erick,Jepsen,,OG/OC,6020,285,RS SR
+Adrian,Johnson,,S,6010,190,RS SR
+Rahshead,Johnson,,WR,5110,175,SO
+Clayton,Johnston,,OT,6060,280,FR
+Jalen,Jones,,CB,5080,155,SO
+Ronald,Jones II,,RB,6000,185,FR
+George,Katrib,,WR,6010,180,SR
+Cody,Kessler,,QB,6010,215,RS SR
+Robby,Kolanz,,WR,5110,175,RS JR
+Joey,Krassenstein,,P,6030,210,RS SR
+Isaiah,Langley,,ATH,6000,165,FR
+Toa,Lobendahn,,OT,6030,290,SO
+Jonathan,Lockett,,CB,5110,175,SO
+Matt,Lopes,,FS,5110,185,RS SO
+Tre,Madden,,RB,6010,220,RS SR
+Damien,Mama,,OT,6050,370,SO
+Iman,Marshall,,CB,6010,195,FR
+Osa,Masina,,OLB,6040,233,FR
+Peter,McBride,,LS,6010,215,RS SR
+Leon,McQuay III,,FS,6010,190,JR
+Jeff,Miller,,DE,6010,235,JR
+Matt,Miller,,OLB,6010,225,SO
+Aaron,Minor,,WR,6030,190,RS SO
+Steven,Mitchell,,WR,5100,180,RS SO
+Alex,Moore,,ILB,6020,220,SO
+Grant,Moore,,ILB,6010,220,SO
+Davonte,Nunnery,,S,5110,210,SO
+Uchenna,Nwosu,,OLB,6030,210,SO
+Claude,Pelon,,DT,6050,285,RS SR
+Reuben,Peters,,ILB,6010,220,SO
+Tyler,Petite,,TE-Y,6060,223,FR
+Jahleel,Pinner,,FB,5110,240,SR
+John,Plattenberg,,SS,5110,180,SO
+Quinton,Powell,,LB,6020,220,JR
+Christian,Rector,,DE,6040,231,FR
+Khaliel,Rodgers,,OG/OC,6030,310,RS SO
+Darreus,Rogers,,WR,6020,210,JR
+Taylor,Ross,,RB,5100,190,RS SR
+Ykili,Ross,,ATH,6020,190,FR
+Jabari,Ruffin,,OLB,6030,225,RS JR
+Anthony,Sarao,,OLB,6000,215,RS SR
+Nick,Schlossberg,,ILB,6000,215,RS JR
+Wyatt,Schmidt,,PK,6030,205,SO
+Kevin,Scott,,DT,6040,255,FR
+Kevon,Seymour,,CB,6000,175,SR
+Devian,Shelton,,CB,6010,185,RS SO
+Delvon,Simmons,,DE,6060,300,RS SR
+Jordan,Simmons,,OT/OG,6040,335,RS JR
+Lamont,Simmons,,CB,6020,185,SO
+Cameron,Smith,,ILB,6020,236,FR
+Cole,Smith,,C,6030,260,FR
+JuJu,Smith,,WR,6020,210,SO
+Stefan,Smith,,RB,6010,195,SO
+Zach,Smith,,LS,6010,210,JR
+Connor,Spears,,TE,6060,235,RS SO
+Scott,Starr,,OLB,6020,220,RS JR
+Dane,Stevens,,OG/OC,6030,310,RS SO
+Conner,Sullivan,,QB,6010,180,RS JR
+Shane,Sullivan,,TE,6040,240,RS SR
+Viane,Talamaivao,,OC,6030,330,SO
+Marvell,Tell,,S,6020,185,FR
+Cody,Temple,,DT,6020,300,RS SR
+Christian,Tober,,WR,5080,175,JR
+James,Toland,,RB,6000,185,RS SO
+Ricky,Town,,QB,6040,205,FR
+Greg,Townsend Jr.,,DE,6030,275,RS SR
+Olajuwon,Tucker,,ILB,6030,220,SO
+Max,Tuerk,,OC/OG,6060,285,SR
+Larry,Tuileta,,QB,6020,200,RS FR
+Soma,Vainuku,,FB,6000,265,RS SR
+Aca'Cedric,Ware,,RB,5100,175,FR
+Richie,Wenzel,,OC,6020,280,SO
+Chad,Wheeler,,OT,6070,275,RS JR
+Isaac,Whitney,,WR,6040,200,JR TR
+Chris,Willson,,TE-QB,6060,245,RS SR
+Alex,Wood,,PK,5100,175,RS JR
+Antwaun,Woods,,NT/DT,6000,310,RS SR

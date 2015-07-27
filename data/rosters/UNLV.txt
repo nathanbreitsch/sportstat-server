@@ -1,0 +1,80 @@
+first_name,last_name,suffix,position,height,weight,year
+Phil,Aganus,,DB,6010,165,FR
+Kyle,Anderson,,LB,6030,230,RS SO
+Ammir,Aziz,,DL,6060,310,FR
+Brandon,Baker,,DB,6010,175,SR
+Dalton,Baker,,DB,5011,180,FR
+Dominic,Baldwin,,DT,6050,240,JR
+Nicolai,Bornand,,LB/PK/P,6010,225,JR
+Devonte,Boyd,,WR,6001,175,SO
+Kayne,Boyer,,OC,6020,285,FR
+Justin,Brown,,WR,5070,160,FR
+Patrick,Carroll,,OT,6050,310,JR
+Christian,Clapp,,WR,6010,190,SO
+Tom,Clarkson,,OT,6060,290,JR
+Aaron,Criswell,,WR,5100,175,SR/TR
+Blake,Decker,,QB,6020,205,SR
+Chazz,Eldridge,,CB,6010,185,FR
+Tuli,Fakauho,,DT,6010,300,SR
+Dominique,Fenstermacher,,DB,5100,170,FR
+Mark,Finau,,DE,6030,230,SO/TR
+David,Greene,,RB,6010,210,SR
+Nick,Gstrein,,OG,6040,295,SR
+Troy,Hawthorne,,SS,6030,210,JR
+Phillip,Haynes,,OL,6040,270,FR
+Charles,Henry,,CB,6020,170,FR
+Martaveous,Holliday,,RB,5090,185,FR
+Tim,Hough,,DB,5110,175,FR
+Charles,Howard,,OT,6040,330,JR
+Mike,Hughes Jr,,DT,6030,300,SO
+Kimble,Jensen,,OLB,6010,205,SR
+Najee,Johnson,,OLB,6040,220,SR
+Henri,Jussila,,RB,5090,180,RS SO
+Roscoe,Kalilikane,,LB,6010,210,RS SO
+Kendal,Keys,,WR,6030,200,SO
+Kenny,Keys,,FS,6040,190,SR
+Will,Kreitler,,OC,6010,295,JR/TR
+Trent,Langham,,ILB,6020,210,JR
+Matt,Lea,,OLB,5100,210,RS SO
+Jonathan,Leiva,,PK,5110,175,SR
+Chris,Lopez,,OG,6040,285,RS SO
+Tau,Lotulelei,,OLB,6010,220,JR
+Tui,Maloata,,DL,6030,270,JR/TR
+Ryan,McAleenan,,ILB,6020,230,JR
+Brian,McIntyre,,PK,6010,175,SR
+Torry,McTyer,,CB,6000,180,JR
+Billy,Murphy III,,LB,6010,200,FR
+Dorian,Naiditch,,PK,5040,145,FR
+George,Naufahu,,RB,6010,215,SR
+J.T.,Nettleton,,DB,6030,185,FR
+Eric,Noone,,OG,6020,300,JR
+Jamal,Overton,,RB,5090,205,RS JR
+Kurt,Palandech,,QB,6010,190,SO/TR
+Anthony,Pataray,,WR,6020,180,FR
+Elexious,Perkins II,,LB,6000,210,SR
+Gavin,Peterson,,OL,6030,300,FR
+Marc,Philippi,,FB,5100,220,JR
+Jake,Phillips,,TE/LS,6060,255,SR
+Iggy,Porchia,,OLB,6020,225,JR
+Andrew,Price,,TE,6060,250,JR
+Blake,Richmond,,FS,6030,190,SR
+Jacobie,Russell,,DL,6040,230,RS SO
+Joseph,Salazar,,DE,6040,210,RS FR
+J'Ondray,Sanders,,OT,6050,270,RS SO
+Sonny,Sanitoa,,DE,6030,260,SR
+Kyle,Saxelid,,OT,6070,270,RS SO
+Ron,Scoggins,,OG,6030,335,SR
+Dakota,Shackleton,,LS,6010,220,SR
+Zach,Singer,,OL,6020,320,SO/TR
+Jacob,Speaks,,RB,5090,195,RS FR
+Jeremiah,Tauala,,LB,6010,240,JR
+Kevin,Thomson,,QB,6010,185,RS FR
+Jeremiah,Valoaga,,DE,6060,260,SR
+Peni,Vea,,SS,6010,205,SR
+Jerrod,Wallace,,DL,6040,280,FR
+Keith,Whitely,,RB,5090,185,JR
+Anthony,Williams,,WR,5110,190,SR
+Jonavaughn,Williams,,DB,6000,190,JR
+Fred,Wilson,,CB,6010,175,SR
+Logan,Yunker,,P,6020,200,SR
+Antonio,Zepeda,,TE,6060,265,RS SO

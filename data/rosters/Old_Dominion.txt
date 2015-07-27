@@ -1,0 +1,107 @@
+first_name,last_name,suffix,position,height,weight,year
+Kohl,Adams-Hurd,,ILB,6020,239,SR
+Brandon,Addison,,DB,5100,173,RS FR
+Ely,Anderson,,OT,6060,290,RS SR
+Daniel,Appouh,,DE,6040,247,RS FR
+Tony,Barnett,,OT,6040,292,FR
+Poncho,Barnwell,,DE,6040,270,SR/TR
+Shuler,Bentley,,QB,6010,209,RS FR
+Casey,Bernard,,LB,6020,222,FR
+Andre,Bernhard,,FS,6020,192,SO
+TJ,Boothe,,WR,6020,223,SO
+C.J.,Bradshaw,,WR,5100,187,JR
+Marvin,Branch,,LB,6020,227,RS FR
+Jude,Brenya,,DE,6030,262,JR
+Jamez,Brickhouse,,CB,5100,165,FR
+Devon,Brown,,CB,5110,180,JR/TR
+R.J.,Brown,,WR,6010,197,FR
+Tyler,Burns,,OT,6060,370,RS SR
+Troy,Butler,,OC,6030,320,JR
+Christian,Byrum,,SS,6010,186,SO
+Jelani,Carter,,DB,6010,190,FR
+Sean,Carter,,DB,6010,199,RS FR
+Cullen,Casey,,OT,6040,288,SO
+Jarrett,Cervi,,PK/PT,6010,219,SO
+Nick,Clarke,,OC,6040,301,RS FR
+Tyler,Compton,,OC,6040,297,JR
+Justin,Cooper,,RB,5110,213,RS FR
+Rashaad,Coward,,DT,6050,297,JR
+Jeremy,Cox,,RB,5110,208,FR
+Nijee,Cox,,TE,6030,235,FR
+Justice,Davila,,FS,6000,191,SO
+Jonathan,Duhart,,WR,6030,211,SO
+Nick,England,,WR,6000,180,JR/TR
+Galen,Evans,,DT,6030,299,RS JR
+Davis,Farmer,,OT,6050,331,SO
+Nick,Ferrari-Smith,,RB,5090,185,FR
+Tyler,Fisher,,OG,6030,323,JR
+Miles,Fox,,DT,6010,270,FR
+Dalton,Fraser,,P,6000,196,SO/TR
+Travis,Fulgham,,WR,6030,205,RS FR
+Malik,Fuller,,RB,5090,168,RS FR
+Darius,Garcia,,OT,6030,311,SO
+Jordan,Glover,,DB,5110,177,RS FR
+Kyle,Goddard,,WR,5100,180,FR
+Eric,Hampson,,OG,6050,284,SO
+Devin,Hannan,,OL,6040,275,FR
+Isaiah,Harper,,WR,5090,166,RS FR
+Eri'Reon,Hayes,,WR,6020,190,FR
+Chad,Hendricks,,OT,6060,274,RS FR
+Lawrence,Holley,,CB,6020,205,RS FR
+Will,Howard,,WR,6030,197,RS FR
+Germonta,Jackson,,RB,5100,185,FR
+Jaylin,Jefferies,,LB,6000,228,FR
+Malique,Johnson,,S,6020,216,SR
+Eli,Kessner,,OG,6020,300,SO
+Blake,Larussa,,QB,5100,176,FR
+Ray,Lawry,,RB,5100,205,SO
+Marques,Little,,WR,5090,180,SO
+Ryan,Londree,,DT,6030,271,RS FR
+Vincent,Lowe,,WR,5090,176,SO
+Andrew,Maddox,,OT,6050,286,JR
+Raul,Martinez,,OL,6050,285,JR/TR
+Manuel,Matiarena,,OL,6040,299,SO/TR
+Colin,McElroy,,QB,6000,189,JR
+Keenan,McUmber,,S,6000,182,RS FR
+Connor,Mewbourne,,OT,6040,287,RS SR
+Fellonte,Misher,,SS,6020,214,SR
+Kane,Miskel,,DB,6020,175,FR
+Justin,Noye,,S,6010,202,RS FR
+A.J.,Oneal,,LB,6030,210,FR
+Zach,Pascal,,WR,6020,217,JR
+Hassan,Patterson,,WR,6020,185,FR
+Joseph,Pulisic,,P,5090,173,JR
+Terrell,Reid,,DE,6020,277,JR
+Quintin,Reynolds,,WR,6000,185,RS FR
+TJ,Ricks,,ILB,6000,225,JR
+Blair,Roberts,,WR,6020,203,RS SR
+Bunmi,Rotimi,,DT,6040,281,SO
+Latrell,Sandifer,,RB,5070,153,RS FR
+Reece,Schmidt,,LB,6030,246,SR/TR
+Ricky,Segers,,PK,5110,206,RS JR
+Brandon,Simmons,,RB,5090,190,SO
+Martez,Simpson,,OLB,6010,222,SR/TR
+Hunter,Sosebee,,OL,6070,270,FR
+Kesean,Strong,,RB,5100,185,FR
+Adam,Swann,,TE,6050,241,RS FR
+Mufu,Taiwo,,DT,6050,250,FR
+Richard,Thomas,,OLB,6000,227,JR/TR
+Rob,Thompson,,CB,6010,197,RS SO
+Aquante,Thornton,,CB,5090,170,RS SR
+Pat,Toal,,DT,6040,316,RS FR
+Brandon,Tyson,,DT,6010,345,RS FR
+Melvin,Vaughn,,WR,6020,248,JR
+Adam,Vaught,,LS,6060,258,RS FR
+Joey,Verhaegh,,QB,6030,215,SO/TR
+Tim,Ward,,DE,6060,218,FR
+David,Washington,,QB,6030,209,JR
+Torrez,Wentz,,DL,6020,280,RS FR
+Scott,Wiggins,,DE,6030,237,JR/TR
+Derek,Wilder,,LB,6010,242,FR
+Denzel,Williams,,S,6020,200,FR
+Shadow,Williams,,OLB,6000,218,JR/TR
+Anthony,Wilson,,OLB,6010,221,JR/TR
+Isaiah,Worthy,,LB,6010,235,SO
+Oshane,Ximines,,DE,6030,239,RS FR
+Aaron,Young,,CB,5110,188,JR
+Satchel,Ziffer,,PK/PT,6040,206,JR/TR

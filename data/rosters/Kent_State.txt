@@ -1,0 +1,95 @@
+first_name,last_name,suffix,position,height,weight,year
+James,Alexander,,LB,5110,242,SO
+Eldin,Anu,,DB,5090,167,SO
+Nelson,Anu,,DB,5100,180,SR
+Kain,Anzovino,,LS,6010,230,RS SO
+Connor,Arlia,,WR,5090,181,SR/TR
+Matt,Bahr,,SS,6010,200,RS FR
+Jalen,Billingsley,,DT,6030,240,JR
+George,Bollas,,QB,6030,205,RS FR
+Kevin,Bourne,,FS,5100,191,RS SO
+Josh,Boyle,,WR,5090,173,SR
+John H.,Bronczek,,S,5070,174,FR
+James,Brooks,,WR,5090,200,JR
+Connor,Brumfield,,TE,6040,235,FR
+Chad,Bushley,,LS,6010,215,RS SR
+Chalfonte,Butler,,TE,6060,217,FR
+Jontey,Byrd,,DT,5110,275,RS SO
+Ernest,Calhoun,,WR,5060,150,JR
+Charles,Chandler,,WR,6020,197,JR
+Jon,Cunningham,,DT,6000,295,SO
+Nick,Cuthbert,,SS,6000,208,JR
+Matt,Dellinger,,LB,6010,225,SR
+Troy,Dipre,,LB,5110,195,FR
+Antwan,Dixon,,WR,5080,173,FR
+Trayion,Durham,,RB,6010,250,RS SR
+Theodore,Eboigbe,,DE,6010,244,FR
+Marcus,Elliott,,CB,6010,195,SO
+Brice,Fackler,,TE,6030,234,JR
+Chris,Fairchild,,DT,6020,312,JR
+Nick,Faulkner,,LB/DE,6010,223,FR
+Tad,France,,OG,6040,285,JR
+Bryce,Gibbs,,OL,6030,309,FR
+April,Goss,,K,5060,134,RS SR
+Luke,Grandjean,,WR,6030,180,RS FR
+Joseph,Green,,TE,6030,230,RS FR
+Miles,Hibbler,,RB,5110,187,SO
+Dominic,Hill,,DL,6000,280,FR
+Alex,Hoag,,DE,6030,261,FR
+Nate,Holley,,FS,5110,200,JR
+Nick,Holley,,RB/WR,5100,191,JR
+Shane,Hynes,,K,5100,153,RS FR
+Jordan,Italiano,,SS,5100,207,SR
+Davonte,James,,DL,6030,250,RS FR/TR
+Raekwon,James,,RB,5090,185,RS FR
+Anthony,Johnson,,DE,6040,210,SO/TR
+Jim,Jones,,LB,6010,214,FR
+Sam,Karam,,DE,6030,230,RS SO
+Sam,Kukura,,RB,5090,195,RS FR
+Brock,Macaulay,,OT,6050,290,RS SO
+Ryan,Malone,,TE,6010,242,RS SO
+Mike,Marinelli,,OL,6030,260,FR
+Darryl,Marshall,,CB,5100,160,FR
+Will,Mathews,,RB,5070,210,FR
+Jimmy,May,,CB,6020,175,SR/TR
+Juantez,McRae,,S,5100,174,FR
+Jake,McVay,,S,5110,190,RS SO
+Anthony,Melchiori,,K/P,5110,186,SR
+Brad,Miller,,K,5100,195,JR
+Clay,Miller,,DE,6040,270,RS SR
+Stefano,Millin,,OT,6050,257,RS FR
+Mylik,Mitchell,,QB,6030,194,FR
+Demetrius,Monday,,CB,5100,197,RS SO
+Marques,Moore,,OLB,6020,200,SO
+Kalil,Morris,,DT,6030,310,RS FR
+Najee,Murray,,CB,5090,180,JR/TR
+Alex,Nielsen,,OC,6040,294,JR
+Kyle,Payton,,TE,6030,247,RS SR
+Carlos,Pickett,,S,5110,175,FR
+Anthony,Pruitt,,OG,6020,300,RS SR
+Nathan,Puthoff,,OC,6050,296,SO
+Colin,Reardon,,QB,6010,202,JR
+Reno,Reda,,OT,6060,292,JR
+Darius,Redmond,,ILB,6000,210,JR
+Elcee,Refuge,,OLB,5090,232,JR
+Quan,Robinson,,CB,6030,165,RS FR
+Wayne,Scott,,OG,6030,320,JR
+Ryan,Seibert,,LB,6040,226,RS SO
+Connor,Shinsky,,OG,6060,260,RS FR
+PJ,Simmons,,RB,5090,175,FR
+Erik,Simpson,,SS,5110,175,RS FR
+D'Andre,Smart,,CB,5110,157,FR
+David,Smith,,OT,6040,295,FR
+Matthew,Sommers,,DE,6020,242,SO
+DeVante',Strickland,,LB,6010,237,SR
+Nathan,Strock,,QB,6020,185,RS SO
+Nate,Terhune,,DT,6040,270,RS SR
+Zaquon,Tyson,,WR,5090,155,RS FR
+Chase,Van Hoef,,OL,6030,297,FR
+Myles,Washington,,RB,5090,210,FR
+Terence,Waugh,,DE,6010,250,JR
+Kris,White,,WR,6010,210,RS SO
+Jack,Williams,,TE,6040,216,JR
+Jake,Witucki,,OT,6050,293,JR
+Johnny,Woods,,WR,6030,205,FR
+Joe,Ziccardi,,WR,5110,185,JR

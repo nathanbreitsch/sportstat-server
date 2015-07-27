@@ -1,0 +1,102 @@
+first_name,last_name,suffix,position,height,weight,year
+Patrick,Amara,,FS,6020,190,So.
+Khari,Anderson,,DB,6020,195,RS Fr.
+George,Aston,,FB,6000,240,RS Fr.
+Carson,Baker,,OG,6050,330,RS So.
+Adam,Bertke,,QB,6060,210,RS Fr.
+Adam,Bisnowaty,,OT,6060,305,RS Jr.
+Rori,Blair,,DE,6040,230,So.
+Chris,Blewitt,,PK,5090,185,Jr.
+Alex,Bookser,,OT,6060,295,RS Fr.
+Nate,Bossory,,QB,6030,235,So.
+Tyler,Boyd,,WR,6020,190,Jr.
+Bam,Bradley,,OLB,6020,230,RS Jr.
+Dennis,Briggs,,RB,5100,195,RS Fr.
+Saleem,Brightwell,,LB,6000,195,Fr.
+Joey,Brungo,,WR,6010,185,RS Fr.
+Mike,Caprara,,ILB,6000,225,RS Jr.
+Zach,Challingsworth,,WR,6020,190,RS So.
+James,Conner,,RB,6020,250,Jr.
+Dominic,Cuono,,LB,6020,220,RS Fr.
+Jaquan,Davidson,,WR,6020,170,RS Fr.
+Jamal,Davis II,,LB,6020,200,RS Fr.
+Connor,Dintino,,DL,6030,295,RS Fr.
+Ben,DiNucci,,QB,6020,190,Fr.
+Michael,Dunn,,DL,6030,240,RS So.
+Allen,Edwards,,DL,6040,235,Jr.
+Devon,Edwards,,TE,6040,260,RS So.
+Nico,Elms,,LB,6000,210,RS So.
+Stephen,Ezekoye,,RB,5090,175,RS Fr.
+James,Folston Jr.,,LB,6030,200,RS Fr.
+Dontez,Ford,,WR,6020,205,RS Jr.
+Matt,Galambos,,ILB,6020,245,Jr.
+Alex,Galiyas,,OL,6020,270,RS Fr.
+Nick,Goldsmith,,P,6020,210,RS Fr.
+Reggie,Green,,OLB/DE,6020,225,RS So.
+Nicholas,Grigsby,,OLB,6010,220,RS Sr.
+Mike,Grimm,,OL,6060,325,RS Fr.
+John,Guy,,OT,6070,285,RS Jr.
+Darrin,Hall,,RB,5110,215,Fr.
+Tony,Harper,,TE,6040,220,RS So.
+Malik,Henderson,,DB,6000,175,Fr.
+Quadree,Henderson,,WR,5080,170,Fr.
+Mike,Herndon,,OG,6040,320,RS Fr.
+J.P.,Holtz,,TE,6040,245,Sr.
+Rachid,Ibrahim,,RB,6010,185,Jr.
+Oluwaseun,Idowu,,DB,6000,185,RS Fr.
+Gentry,Ivery,,WR,6010,195,Fr.
+Dane,Jackson,,DB,6000,165,Fr.
+Chris,James,,RB,5110,210,So.
+Tyrique,Jarrett,,NT,6030,335,Jr.
+Dorian,Johnson,,OG,6050,300,Jr.
+Jordan,Jones,,WR,6030,215,RS Fr.
+Jaryd,Jones-Smith,,OT,6070,335,RS So.
+Joey,Kerle,,FB,6000,235,RS Fr.
+Ryan,Lewis,,CB,6000,195,RS Jr.
+Colton,Lively,,FB,6000,240,RS So.
+Nico,Lodovico,,LB,6010,215,RS So.
+Avonte,Maddox,,CB,5090,165,So.
+Alec,Maternowski,,LB,5110,200,RS Fr.
+Kellen,McAlone,,WR,6020,195,RS Fr.
+Anthony,McKee,,LB,6020,200,Fr.
+Reggie,Mitchell,,CB,6000,185,RS Jr.
+Justin,Moody,,DT,6030,280,RS So.
+Khaynin,Mosley-Smith,,NT,6000,310,RS Sr.
+Phillipie,Motley,,DB,5100,170,RS Fr.
+David,Murphy,,LS,6010,220,RS Sr.
+Trent,Neavin,,DL,6000,260,RS So.
+Brian,O'Neill,,TE,6060,245,RS Fr.
+Alex,Officer,,OC,6040,335,RS So.
+Qadree,Ollison,,RB,6020,215,RS Fr.
+Scott,Orndoff,,TE,6050,260,Jr.
+Jaymar,Parrish,,FB,6020,270,Jr.
+Alex,Paulina,,OL,6030,300,Fr.
+Nathan,Peterman,,QB,6020,220,R-JR
+Tony,Pilato,,OL,6050,315,Fr.
+Jevonte,Pitts,,SS,5110,205,RS Jr.
+Lafayette,Pitts,,CB,5110,195,RS Sr.
+Zach,Poker,,DL,6040,240,RS So.
+Brian,Popp,,LB,6000,220,RS Fr.
+Jameel,Poteat,,RB,5100,210,RS Sr.
+Ejuan,Price,,DE,6000,255,RS Sr.
+Pat,Quirin,,LS,6010,220,RS Jr.
+Aaron,Reese,,OT,6050,310,RS So.
+Darryl,Render,,DT,6020,275,Sr.
+Anthony,Rippole,,FB,5100,235,RS Jr.
+Gabe,Roberts,,OC,6050,305,RS Jr.
+Artie,Rowell,,OC,6020,315,RS Sr.
+Shane,Roy,,DE,6040,245,RS Fr.
+Shakir,Soto,,DE,6030,270,Jr.
+Jay,Stocker,,DB,6020,185,Fr.
+Jeremiah,Taleni,,DT,6020,295,RS So.
+Tre,Tipton,,WR,6000,170,Fr.
+Hez,Trahan,,DL,6040,250,RS Fr.
+Chad,Voytik,,QB,6010,205,RS Jr.
+Jester,Weah,,WR,6030,205,RS So.
+Terrish,Webb,,SS,5110,180,Jr.
+Jordan,Whitehead,,DB,5110,185,Fr.
+Jalen,Williams,,DB,6020,180,RS Fr.
+Ryan,Winslow,,P,6050,210,RS So.
+Quintin,Wirginis,,OLB,6020,220,So.
+Chris,Wuestner,,WR,6020,205,RS Jr.
+Elijah,Zeise,,WR,6020,195,RS Fr.

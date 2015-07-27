@@ -1,0 +1,87 @@
+first_name,last_name,suffix,position,height,weight,year
+Luke,Adams,,DE,6040,260,RS JR
+Jordan,Akins,,WR,6030,237,SO
+Demetris,Anderson,,DT,6020,299,RS SR
+Micah,Anderson,,DT/OL,6020,338,RS JR
+Cal,Bloom,,TE,6030,258,RS JR
+Demeitre,Brim,,OB,6030,225,RS JR
+Chester,Brown,,OT,6050,317,RS JR
+Chequan,Burkett,,OB,6020,218,RS SO
+Michael,Campbell,,TE,6060,285,RS JR
+Errol,Clarke,,OLB,6010,240,RS JR
+Kyle,Coltrain,,WR,5010,183,RS SO
+Michael,Colubiale,,WR,6010,222,RS SO
+Joey,Connors,,DL,6010,270,RS FR
+Tarik,Cook,,OC,6020,291,RS SR
+Chris,Davis Jr.,,WR,6010,180,FR
+Gary,Demarest,,RB,6030,245,RS FR
+Chavis,Dickey,,OT,6040,300,SO
+Pete,DiNovo,,WR,6020,205,RS SO
+Mario,Elliott,,LS,6040,231,RS SO
+Aaron,Evans,,OT,6050,290,RS SO
+Jordan,Franks,,SS,6030,225,SO
+Jamari,Fye,,WR,5110,151,RS SO
+Kyle,Gibson,,CB,5110,180,RS FR
+Adrian,Gordon,,WR,6000,205,RS SO
+Shaquem,Griffin,,FS,6010,197,RS SO
+Shaquill,Griffin,,CB,6010,192,JR
+Tony,Guerad,,DT,6030,290,RS SO
+Tyler,Harris,,QB,6040,223,RS FR
+Jared,Henry,,SS,6000,208,RS JR
+Tate,Hernly,,OG,6030,291,RS SO
+Luke,Hiers,,OL,6030,285,FR
+Justin,Holman,,QB,6040,213,JR
+Caleb,Houston,,P,6010,200,RS JR
+Daron,Humphrey,,RB,5100,184,RS JR
+Alex,Hunt,,LB,6000,220,RS SO
+Chris,Johnson,,DB,5100,180,RS SO
+Drico,Johnson,,FS,6010,202,RS JR
+CJ,Jones,,RB,5100,195,RS FR
+Hayden,Jones,,WR,5100,170,RS JR
+D.J.,Killings,,CB,6010,184,JR
+Chris,Larsen,,TE/HB,6020,230,RS FR
+Zack,Laurinaitis,,TE,6050,205,RS FR
+Mac,Loudermilk,,PT,6010,220,RS FR
+Seyvon,Lowry,,DE,6020,244,RS SO
+Gage,Marsil,,LS,6010,226,RS JR
+Mario,Mathis,,FB,6010,232,RS SO
+Lance,McDowdell,,DT,6040,310,SR
+Taj,McGowan,,RB,6010,190,FR
+Mark,Messeguer,,FB,5080,250,RS FR
+Kevin,Miller,,TE,6040,255,RS SR
+Wyatt,Miller,,OT,6040,280,RS FR
+Collin,Mills,,OL,6020,240,RS FR
+Tre,Neal,,FS,6010,185,RS FR
+Thomas,Niles,,DE,6020,270,RS SR
+Connor,O'Sullivan,,PK,6000,221,RS SO
+Taylor,Oldham,,WR,6010,200,RS JR
+Miles,Pace,,DE,6010,256,RS SR
+Luke,Palmer,,OG,6030,280,RS FR
+Nick,Patti,,QB,5110,201,RS JR
+Caleb,Perez,,LB,6010,215,RS FR
+Jock,Petree,,DT,6010,255,RS SO
+Jamiyus,PIttman,,DT,6000,300,SO
+Joseph,Puopolo,,RB,5100,242,RS SR
+Jason,Rae,,OC,5110,283,JR
+Justin,Rae,,HB,5100,260,RS FR
+Tristan,Reaves,,WR,6030,205,RS FR
+Mark,Rucker,,OB,5090,210,RS JR
+Maurice,Russell,,IB,5110,239,RS JR
+Trace,Ryan,,WR,6030,170,RS FR
+Brandon,Scott,,DB,6000,185,FR
+Tre'Quan,Smith,,WR,6010,180,RS FR
+William,Solomon,,QB,6020,190,RS SO
+Domenic,Spencer,,IB,5100,229,SR
+Charles,Sprenkel,,OT,6040,287,RS SO
+William,Stanback,,RB,6010,225,JR
+Brendin,Straubel,,CB,5090,190,RS SR
+Stanley,Sylverain,,DE,6010,237,RS JR
+Cedric,Thompson,,RB,6000,224,RS SR
+Blake,Tiralosi,,RB,5110,194,RS JR
+Jared,Warren,,OG,6010,279,RS SO
+Colby,Watson,,OG,6050,318,JR
+Michael,Willett,,DB,5090,186,RS SO
+Chris,Williams,,CB,6000,180,RS FR
+Dontravious,Wilson,,RB,5100,212,JR
+AJ,Wooten,,DL,6040,240,RS FR
+Matthew,Wright,,PK/PT,6010,170,RS FR

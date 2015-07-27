@@ -1,0 +1,97 @@
+first_name,last_name,suffix,position,height,weight,year
+Tony,Adams,,OC,6020,300,So
+Davion,Allred,,DE,6000,228,RS So.
+Johnathan,Alston,,WR,6030,203,Jr.
+Kyle,Bambard,,PK,5080,190,Fr
+Alex,Barr,,OT,6080,318,RS Sr
+Trace,Batten,,CB,5100,202,RS Fr
+Hampton,Billips,,DE,6070,247,RS Fr
+Brady,Bodine,,RB,5100,200,RS Fr
+Shawn,Boone,,FS,5100,194,So
+Cole,Boroughs,,CB,6000,190,RS Jr.
+Grant,Bowman,,DT,6010,275,So
+Evan,Braband,,QB,6020,197,RS Fr
+Garrett,Bradbury,,DT,6030,285,RS Fr
+Jacoby,Brissett,,QB,6040,235,RS SR
+NaQuan,Brown,,WR,6010,203,RS Sr.
+Benson,Browne,,TE,6050,255,RS Sr
+Juston,Burris,,CB,6010,207,RS SR
+Bra'Lon,Cherry,,WR,5110,191,Jr.
+Bradley,Chubb,,OLB,6040,260,So
+Niles,Clark,,CB,5110,188,RS Jr.
+AJ,Cole III,,P,6040,238,Fr
+Cole,Cook,,TE,6060,250,So.
+Woody,Cornwell,,QB,6020,210,RS Fr
+Coult,Culler,,DT,6050,280,RS Fr
+Peter,Daniel,,OT,6060,294,RS So
+Elliot,Davis,,WR,6010,185,RS Fr
+Jordan,Dawson,,WR,6000,192,RS So
+Matt,Dayes,,RB,5090,203,Jr.
+Clark,Eyers,,DE,6050,252,RS Jr
+Jerod,Fernandez,,ILB,6010,231,RS So.
+Reggie,Gallaspy II,,RB,5110,212,Fr
+Ben,Garnett,,LS,6000,238,RS Jr
+Kenton,Gibbs,,DT,6020,300,RS So
+Ben,Grazen,,WR,5090,190,RS So/1
+David J.,Grinnage,,TE,6050,265,RS Jr
+B.J.,HIll,,DT,6040,300,So
+Deonte,Holden,,DE,6040,240,RS Fr
+Ford,Howell,,LB,6010,244,RS So
+Hakim,Jones,,FS,6020,205,RS Sr
+Josh,Jones,,SS,6020,215,RS So
+Justin,Jones,,DT,6020,300,So
+Tyler,Jones,,OT,6030,300,RS Fr
+Bryce,Kennedy,,OG,6030,305,RS Jr
+Zak,Kuder,,OT,6070,285,RS Fr
+Nicholas,Lacy,,CB,5070,181,RS So
+Gavin,Locklear,,WR/DB,5100,173,RS FR
+Stephen,Louis,,WR,6020,210,So
+Jackson,Maples,,PK,5100,195,RS Fr
+Kalen,McCain,,SS,6020,195,RS Fr
+Kalen,McCain,,S,6020,195,So
+Jalan,McClendon,,QB,6050,212,So
+Pharoah,McKever,,DE,6060,260,RS So
+Malcom,Means,,CB,6010,195,RS So
+Deshaywn,Middleton,,DT,6020,300,RS Fr
+Airius,Moore,,MLB,6000,232,So.
+Maurice,Morgan,,WR,6020,245,RS Sr.
+Stephen,Morrison,,WR,5110,196,RS Fr
+Duncan,Musselwhite,,LS,6030,214,Fr
+Monty,Nelson,,DT,6020,310,Jr
+Dakwa,Nichols,,RB,5090,195,RS So
+Riley,Nicholson,,LB,6000,229,Fr
+Sean,Paul,,CB,5110,190,RS So
+Freddie,Phillips,Jr.,CB,6010,200,Fr
+Ben,Pierce,,DT,5100,269,Jr
+Germaine,Pratt,,FS,6030,234,So
+Terronne,Prescod,,OG,6050,338,RS Fr
+Evan,Pritt,,OL,6040,270,RS So
+Jumichael,Ramos,,WR,6020,200,Jr
+Will,Richardson,,OT,6060,303,RS Fr
+Artemis,Robinson,,LB,6000,225,RS So.
+Ernie,Robinson,,OLB,6010,229,RS Jr
+Mike,Rose,,DE,6030,270,RS Sr.
+Darian,Roseboro,,DE,6040,287,Fr
+M.J.,Salahuddin,,LB,6020,227,RS Jr
+Jaylen,Samuels,,TE,5110,236,So
+Quinton,Schooley,,OC,6040,299,Sr
+Josh,Sessoms,,WR,6020,198,RS Jr
+Bryan,Smith,,LB,6020,248,RS So
+James,Smith-Williams,,CB,6040,220,Fr
+William,Stephenson,,P,6030,195,RS Jr
+Michael,Stevens,,CB,5110,190,So
+Max,Stoffer,,FB,6010,230,RS Fr
+Kentavius,Street,,DE,6020,290,So
+Josh,Taylor,,QB,5110,189,Jr
+Shadrach,Thornton,,RB,6010,218,Sr.
+Joe,Thuney,,OC,6050,295,RS Sr.
+Micah,Till,,TE,6050,268,RS Fr
+Jack,Tocho,,CB,6010,198,Jr
+Maurice,Trowell,,WR,5110,191,RS Fr
+John,Tu'uta,,OC,6030,280,RS Jr
+Charlie,Twitty,,WR,5100,191,RS Jr
+Marquez,Valdes-Scantling,,WR,6030,201,SO/1
+Troy,VIncent,Jr.,CB,5100,199,So
+Robert,Wilcox,,CB,6000,188,RS Fr
+Dexter,Wright,,SS,6020,234,RS Fr
+Dravious,Wright,,CB,5100,208,JR.

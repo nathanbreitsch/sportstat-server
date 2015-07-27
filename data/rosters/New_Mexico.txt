@@ -1,0 +1,84 @@
+first_name,last_name,suffix,position,height,weight,year
+Garrett,Adcock,,C,6020,294,RS JR
+Tayo,Adewon,,DB,6000,191,RS SR
+Toye,Adewon,,OG,6040,318,RS SO
+George,Aho,,LB,5110,200,JR
+Darian,Allen,,OL,6030,306,RS JR
+David,Anaya,,RB,5090,193,SR
+Andrew,Aqua,,OL,6020,334,RS JR
+Michael,Arredondo,,LB,6010,222,SR
+Daquan,Baker,,LB,6000,242,RS FR
+Ricky,Bennett,,DB,6000,208,RS SO
+Jadon,Boatright,,DB,5010,172,JR
+Isaiah,Brown,,CB,5110,180,JR
+Mike,Budick,,DL,6030,230,RS FR
+Marquis,Bundy,,WR,6040,208,SR
+Markel,Byrd,,DB,5110,188,RS SO
+Kimmie,Carson,,LB,6000,199,RS SO
+Wendell,Carter,,RB,5070,183,RS SR
+Dakota,Cox,,IB,6000,231,JR
+Lee,Crosby,,DB,5110,192,RS JR/TR
+Nik,D'Avanzo,,NT,6030,281,JR
+Chris,Davis,,WR,5060,170,SO
+Devin,DesJarlais,,WR,5110,192,RS SR/TR
+Kenya,Donaldson,,OLB,6010,204,RS JR
+Donnie,Duncan,,DB,5110,185,RS SR
+Chris,Edling,,TE,6030,236,SR
+Jared,Francisco,,OL,6030,302,RS JR
+Steven,Galvan,,LB,6010,233,RS FR
+Dameon,Gamblin,,WR,5100,174,JR
+Cole,Gautsche,,TE,6040,242,SR
+Sam,Gentry,,QB/P,6060,244,RS JR
+David,Georges,,TE,6030,245,RS SR
+Teriyon,Gipson,,RB,5080,180,JR
+Reno,Henderson,,OT,6040,272,RS JR
+Daniel,Henry,,DB,6010,182,RS JR/TR
+Garrett,Hughes,,DE,6010,272,SO
+Aaron,Jenkins,,OL,6010,310,RS FR
+Cranston,Jones,,CB,5080,176,SR
+Juwan,Jones,,DB,6020,202,RS FR
+Ridge,Jones,,WR,5100,166,RS JR
+Lamar,Jordan,,QB,5100,183,RS SO
+Romell,Jordan,,RB,5080,181,RS SO
+Cole,Juarez,,DT,6020,300,SR/TR
+Caleb,Kimbro,,QB,6000,205,RS SO
+Jack,Lamm,,OL,6030,278,RS JR
+Ryan,Langford,,LB,6040,229,SR/TR
+JaJuan,Lawson,,QB,6000,201,RS FR
+Chris,Lee,,DL,6010,257,SR/TR
+Nick,Lehman,,TE,6030,234,JR/TR
+Damacio,Lopez,,LB,5110,214,RS JR
+Marcus,Lopez,,RB,5090,180,RS SO
+Eden,Mahina,,OL,6040,299,SR/TR
+Kenneth,Maxwell,,DB,6000,185,JR/TR
+James,Mcneely,,WR,6000,178,RS FR
+Kene,Okonkwo,,DE,6030,272,SO
+Bryan,Oldenkamp,,OT,6040,310,RS SR
+Tyrone,Owens,,RB,5090,180,SO
+Bijon,Parker,,DB,6000,184,RS FR
+Jhurell,Pressley,,RB,5100,200,RS SR
+Matt,Quarells,,WR,6010,186,RS FR
+Patrick,Reed,,WR,6020,182,RS FR
+Zack,Rogers,,PK,5090,195,RS SR
+Steven,Romero,,LS,6010,225,RS JR
+Dillon,Romine,,OT,6060,295,RS SR
+Jake,Rothschiller,,DB,5070,187,RS SO
+John,Russo,,WR,5110,187,RS JR
+Derek,Salas,,DB,5010,186,RS FR
+Jason,Sanders,,K/P,5110,184,SO
+Ryan,Santos,,SS,5100,180,RS JR
+Christopher,Smalls,,DL,6000,280,RS SR/TR
+Geoff,Smelser,,LB,6010,228,RS JR
+Brandon,Thelen,,DB,6020,211,RS SO
+Taylor,Timmons,,DT,6000,298,RS JR/TR
+Dominic,Twitty,,DE,6020,320,RS JR
+William,Udeh,,DE,6000,290,JR
+Johnny,Vizcaino,,OT,6020,300,RS JR
+Michael,Walsh,,TE,6020,205,RS JR
+Donnie,White,,LB,6010,215,JR
+Reece,White,,TE,6010,228,SR
+Carlos,Wiggins,,WR,5080,166,SR
+Jacob,Willcox,,TE,5110,207,RS FR
+Richard,Winston,,LB,6030,225,SR
+Diquon,Woodhouse,,RB,5090,190,RS FR
+Jack,Ziltz,,DT,6020,287,JR/TR

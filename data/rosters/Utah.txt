@@ -1,0 +1,122 @@
+first_name,last_name,suffix,position,height,weight,year
+Philip,Afia,,S,6020,190,FR
+Siaosi,Aiono,,OC,6020,305,SR
+Andrew,Albers,,OT,6070,310,RS SR
+Brian,Allen,,WR,6030,208,JR
+Isaac,Asiata,,OG,6040,315,JR
+Cody,Barton,,OLB,6020,210,FR
+Jackson,Barton,,OT,6070,291,RS FR
+Devontae,Booker,,RB,5110,199,SR
+Aaron,Borg,,LB,6000,220,SO
+Marcel,Brooks-Brown,,RB,6000,205,FR
+Joseph,Bryant,,DB,6030,208,SR
+Cory,Butler,,ATH,5100,180,JR TR
+Johnny,Capra,,OT,6060,288,FR
+Nick,Carman,,OT,6040,255,FR
+Deniko,Carter,,WR,6040,185,JR TR
+Ahmad,Christian,,CB,5100,190,JR TR
+Tyson,Cisrow,,S,5110,188,FR
+Hayden,Clegg,,DE,6010,172,RS JR
+Hipolito,Corporan,,DB,6010,172,JR
+Britain,Covey,,ATH,5900,165,FR
+Brandon,Cox,,QB,6020,200,RS SO
+Kalvin,Cusick,,OL,6020,295,JR
+J.J.,Dielman,,OT,6040,275,JR
+Hunter,Dimick,,DE,6030,270,JR
+Keven,Dixon,,OT,6060,271,FR
+Chase,Dominguez,,LS,6030,215,JR
+Christian,Drews,,LB,6010,223,RS FR
+Evan,Eggiman,,LB,6020,220,RS FR
+James,Empey,,OG,6040,270,FR
+Parker,Erickson,,OL,6020,290,SR
+Quinn,Fabrizio,,S,6030,201,FR
+Siale,Fakailoatonga,,TE,6040,245,JR
+Lo,Falemaka,,OG,6050,268,RS SO
+Jason,Fanaika,,DE,6030,270,RS SR
+Tame,Fangupo,,DT,5100,275,SR
+Viliseni,Fauonuku,,DT,5110,285,SR
+Jameson,Field,,WR,5110,176,SO
+Andrew,Fletcher,,RB,5110,196,SR
+Kala,Friel,,OL,6040,310,SR
+Kyle,Fulks,,WR,5900,175,JR TR
+Andre,Godfrey,,CB,5100,190,SO
+Wallace,Gonzalez,,DE/TE,6050,269,RS FR
+Jake,Grant,,OT,6030,278,FR
+Tom,Hackett,,P,6000,187,SR
+Jon,Halliday,,KK,5110,180,SR
+Ken,Hampel,,TE,6030,250,JR
+Harrison,Handley,,TE,6050,235,RS JR
+Chris,Hart,,DE,6020,234,FR
+Dominique,Hatfield,,WR,5100,160,JR
+Alani,Havili-Katoa,,DT,6030,295,RS FR
+Chad,Hekking,,QB,6040,220,FR
+Charles,Henderson,,FS,5090,185,SR
+Boobie,Hobbs,,CB,5100,175,SO
+Kendall,Huey,,DE,6040,240,JR TR
+Jake,Jackson,,OLB,6030,205,FR
+Chandler,Johnson,,DB,6000,180,SR
+Chayden,Johnston,,K,6010,175,FR
+T.J.,Kautai,,OLB,5100,200,FR
+Bo,Kimball,,WR,6020,163,RS SO
+Tanner,Larsen,,OLB,6030,225,RS SO
+Austin,Lee,,S,6000,187,FR
+Andre,Lewis,,WR,6030,210,SR
+Lowell,Lotulelei,,NT,6010,310,SO
+Hiva,Lutui,,OC,6020,300,JR
+Conner,Manning,,QB,6010,205,SO
+Uaea,Masina,,LB,6020,215,JR
+Delshawn,McClellon,,WR,5090,166,SR
+Troy,McCormick,,RB,5090,165,RS JR
+Nai,Mila,,TE,,,FR
+Evan,Moeai,,TE,6030,247,SR
+Filipo,Mokofisi,,DE,6030,235,RS SO
+McKay,Murphy,,DL,6040,290,RS SO
+Daniel,Nielson,,DT,6060,325,SR
+Jared,Norris,,ILB,6010,230,SR
+Nick,Nowakowski,,OG,6010,295,JR
+Moana,Ofahengaue,,DL,6030,235,RS SO
+Jarrell,Oliver,,RB,5080,213,SR
+Jerry,Padilla,,DB,,,FR
+Tim,Patrick,,WR,6050,190,SR TR
+Gionni,Paul,,LB,6020,230,RS SR
+Darrin,Paulo,,OT,6050,335,FR
+Andy,Phillips,,PK,5110,210,JR
+James,Poole,,RB,6000,196,SR
+Reginald,Porter,,CB,5110,190,JR
+Caleb,Repp,,WR,6050,197,FR
+Marcus,Sanders-Williams,,RB,5110,212,JR
+Andrew,Santiago,,WR,5110,185,JR
+Adam,Schulz,,QB,6010,205,SR
+Kenneth,Scott,,WR,6030,211,SR
+Sharrieff,Shah,Jr.,OLB,6000,225,JR
+Clint,Shepard,,DE,6020,260,RS JR
+Alfred,Smith,,ATH,5900,170,FR
+Clarence,Smith,,DB/LB,6020,217,RS SO
+Tyrone,Smith,,WR,6040,195,FR
+Alec,Steffen,,WR,,,Fr
+Travis,Still,,LB,6010,225,JR
+Jamie,Sutcliffe,,K,6020,184,RS FR
+Darchon,Taggart,,DB,6020,197,JR
+Mo,Talley,,DB,6010,178,RS JR
+Pita,Taumoepenu,,LB/DE,6010,215,JR
+Sam,Tevi,,DT,6050,295,JR
+Justin,Thomas,,CB,5090,173,JR
+Micah,Thomas,,QB,6000,178,RS SO
+Jason,Thompson,,QB,6020,206,RS JR
+Kendal,Thompson,,QB,6020,192,SR
+Stevie,Tu'ikolovatu,,NT,6010,320,JR
+Derek,Tuimauga,,OL,6040,320,SR
+Salesi,Uhatafe,,OT,6040,319,RS SO
+Vaha,Vainuku,,OG,6030,298,FR
+Sal,Velasquez,,LB,5110,219,RS SO
+Dave,Weixler,,DT,6030,295,JR
+Alex,Whittingham,,LB,5110,230,RS SO
+Jason,Whittingham,,ILB,6020,240,SR
+Joseph,Williams,,RB,5110,190,JR TR
+Marcus,Williams,,FS,6000,179,SO
+Tavaris,Williams,,CB,5100,180,RS FR
+George,Wilson,,WR,6020,180,FR
+Travis,Wilson,,QB,6070,240,SR
+Izic,Yapias,,K,6020,200,RS SO
+Dre'Vian,Young,,RB,5090,171,RS SO
+Kenric,Young,,WR,6000,180,SO

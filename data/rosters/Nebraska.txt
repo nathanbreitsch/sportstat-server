@@ -1,0 +1,147 @@
+first_name,last_name,suffix,position,height,weight,year
+Freedom,Akinmoladun,,DE,6040,255,RS FR
+Taariq,Allen,,WR,6030,200,SR
+Lavan,Alston,,WR,6000,175,FR
+Avery,Anderson,,CB,6000,175,FR
+Fyn,Anderson,,DL,6030,260,FR
+Noah,Appleget,,WR,6020,200,RA FR
+Tommy,Armstrong Jr.,,QB,6010,220,JR
+Noah,Arneson,,DL,6030,300,RS FR
+Christian,Bailey,,WR,5110,205,SO
+Josh,Banderas,,ILB,6020,235,JR
+Jalin,Barnett,,OL,6040,310,FR
+Mohamed,Barry,,LB,6010,215,FR
+Ty,Betka,,WR,5070,165,JR
+Jared,Blum,,TE,6040,255,JR
+Mauro,Bondi,,PK,6000,210,SR
+Alex,Boryca,,LB,6020,220,RS FR
+Tyson,Broekemeier,,QB,6010,200,SR
+Drew,Brown,,PK,5100,180,SO
+Jared,Brugmann,,LB,6020,225,FR
+Sam,Burtch,,WR,6030,200,SR
+AJ,Bush,,QB,6030,220,RS FR
+Cethan,Carter,,TE,6040,240,JR
+Brody,Cleveland,,LB,6020,210,FR
+Byerson,Cockrell,,S,6000,185,SR
+Maliek,Collins,,DT/DE,6020,300,JR
+Thomas,Connely,,LB,5110,205,RS FR
+Cole,Conrad,,OL,6050,290,RS FR
+Sam,Cotton,,TE,6040,250,JR
+Imani,Cross,,IB,6010,240,SR
+Zack,Darlington,,QB,6020,205,RS FR
+Daniel,Davie,,CB,6010,190,SR
+Alex,Davis,,DE,6050,230,FR
+Carlos,Davis,,DT,6020,265,FR
+Khalil,Davis,,DT,6020,265,Fr
+Michael,Decker,,OL,6040,285,FR
+Ross,Dzuris,,DE,6030,250,JR
+Erik,Evans,,TE,6030,255,SO
+Tanner,Farmer,,OG,6040,310,RS FR
+Josh,Faulkenberry,,LS,6030,240,SO
+Tyrin,Ferguson,,LB,6020,200,FR
+Matt,Finnin,,OT,6070,305,SR
+Sam,Foltz,,P,6010,200,JR
+Jerald,Foster,,OG,6030,310,RS FR
+Trey,Foster,,TE,6000,245,JR
+Ryan,Freudenburg,,OL,6050,305,RS FR
+Ryker,Fyfe,,QB,6020,210,JR
+Jack,Gangwish,,DE,6020,265,SR
+Nick,Gates,,OT,6050,290,RS FR
+Christian,Gaylord,,OL,6060,275,FR
+Nathan,Gerry,,S,6020,205,JR
+Luke,Gifford,,ILB,6030,215,RS FR
+Kevin,Gladney,,WR,6010,190,SO
+Nolan,Graham,,DB,5110,200,RS FR
+Sam,Hahn,,OL,6060,300,JR
+Zach,Hannon,,OG,6050,305,SO
+Greg,Hart,,TE,6050,240,RS FR
+Austin,Hemphill,,FB,6000,220,FR
+Blake,Holtmeier,,WR,6020,200,RS FR
+Tyler,Hoppes,,DE,6040,240,SO
+Lane,Hovey,,WR,6040,205,JR
+Glenn,Irons,,WR,5090,160,RS FR
+Charles,Jackson,,CB,5110,180,JR
+Cameron,Jakub,,DB,5110,160,RS FR
+Andy,Janovich,,FB,6010,230,SR
+Matt,Jarzynka,,DE,6040,240,RS FR
+Garret,Johns,,DL,6000,280,JR
+Noah,Johnson,,RB,6000,195,FR
+Dwayne,Johnson Jr.,,OL,6060,285,SO
+Chris,Jones,,CB,6000,180,SO
+Harrison,Jordan,,FB,5100,235,SO
+Boaz,Joseph,,DB,6010,190,SO
+Joshua,Kalu,,N-,6010,185,SO
+Reid,Karel,,QB,6030,190,FR
+Joe,Keels,,DE,6030,265,SR
+Connor,Ketter,,TE,6050,245,SO
+Sedrick,King,,DE,6040,240,RS FR
+Bo,Kitrell,,FB,6010,225,RS FR
+David,Knevel,,OT,6090,310,SO
+Creighton,Koley,,DB,6000,180,RS FR
+Chongo,Kondolo,,OG,6040,300,SR
+Murat,Kuzu,,IB,5110,200,SR
+Noah,Lazaro,,LB,6020,225,FR
+Eric,Lee Jr,,CB,6000,180,FR
+Alex,Lewis,,OT,6060,290,SR
+Spencer,Lindsay,,PK,5090,205,JR
+Chris,Long,,OL,6040,300,SR
+Joel,Lopez,,DT,6020,260,SO
+Kevin,Maurice,,DT,6030,280,JR
+Wyatt,Mazour,,ATh,5090,190,FR
+Mitch,McCann,,FB,6000,235,JR
+Garrett,McKay,,LB,5110,210,JR
+Greg,McMullen,,DE,6030,280,JR
+Luke,McNitt,,TE,6020,240,SO
+Alonzo,Moore,,WR,6020,195,JR
+Stanley,Morgan Jr,,WR,6000,185,FR
+Trai,Mosley,,CB,5100,170,RS FR
+Graham,Nabity,,IB,6000,210,JR
+A.J.,Natter,,DE,6050,250,SO
+DaiShon,Neal,,DE,6070,250,FR
+Jordan,Nelson,,IB,5070,180,JR
+Marcus,Newby,,OLB,6010,235,SO
+Terrell,Newby,,IB,5100,200,JR
+Peyton,Newell,,DT,6030,270,RS FR
+Jordan,Ober,,LS,6010,200,FR
+Dylan,Owen,,DL,6050,235,RS FR
+Devine,Ozingo,,RB,5110,225,FR
+Robby,Painter,,OL,6040,290,JR
+Brady,Pelzer,,WR,511,180,RS FR
+Demornay,Pierson-El,,WR,5090,185,SO
+Garrett,Poppen,,LB,6010,215,RS FR
+Givens,Price,,OG,6040,310,SR
+Gabe,Rahn,,WR,6010,190,SO
+Logan,Rath,,DL,6040,280,JR
+Antonio,Reed,,DB,6020,200,FR
+Ryne,Reeves,,OC,6030,300,SR
+Brandon,Reilly,,WR,6010,195,JR
+Bryan,Reimers,,TE,6050,210,RS FR
+Anthony,Ridder,,DB,6020,205,SR
+Austin,Rose,,IB,6010,215,RS FR
+Jonathan,Rose,,CB,6010,195,SR
+Michael,Rose-Ivey,,OLB,5110,240,JR
+David,Santos,,OLB,6000,225,SR
+Grant,Schumacher,,PK,5090,165,SO
+Brad,Simpson,,LB,6000,225,JR
+Matt,Snyder,,TE,6050,245,FR
+Johnny,Stanton,,QB,6020,230,SO
+Zach,Sterup,,OT,6080,320,SR
+Mick,Stoltenberg,,DT,6050,265,RS FR
+Zach,Stovall,,DB,5110,195,SO
+David,Sutton,,TE,6030,255,SR
+Adrienne,Talan,,LB,6010,200,FR
+Adam,Taylor,,IB,6020,210,SO
+Paul,Thurston,,OC,6050,295,JR
+Jamal,Turner,,WR,6010,190,SR
+Dylan,Utter,,OG,6010,285,JR
+Vincent,Valentine,,DT,6030,320,JR
+Chris,Weber,,ILB,6030,220,SO
+Jacob,Weinmaster,,LB,6000,200,FR
+Jordan,Westerkamp,,WR,6000,195,JR
+Corey,Whitaker,,OG,6040,290,JR
+Mikale,Wilbon,,IB,5080,190,RS FR
+Aaron,Williams,,S,5110,185,FR
+Kevin,Williams,,DT,6020,275,SR
+Kieron,Williams,,S,6000,190,SO
+Conor,Young,,ATH,6010,170,FR
+Dedrick,Young,,OLB,6010,220,FR

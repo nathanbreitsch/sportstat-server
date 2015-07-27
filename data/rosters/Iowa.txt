@@ -1,0 +1,113 @@
+first_name,last_name,suffix,position,height,weight,year
+Nathan,Bazata,,DT,6020,284,RS SO
+C.J.,Beathard,,QB,6020,203,JR
+Austin,Blythe,,OC/OG,6030,290,SR
+Ike,Boettger,,OT,6060,267,RS SO
+Bo,Bower,,OLB,6010,220,RS SO
+Ryan,Boyle,,QB,6020,215,FR
+Sam,Brincks,,DE,6050,230,RS FR
+Jordan,Canzeri,,RB,5090,192,SR
+Andrew,Cerney,,LB,6000,213,RS FR
+Drew,Cook,,QB/Ath,6050,220,FR
+Darian,Cooper,,DT,6020,282,JR
+Adam,Cox,,FB,5110,230,JR
+Cole,Croston,,OT,6050,270,JR
+James,Daniels,,OC,6030,290,FR
+LeShun,Daniels Jr,,RB,6000,225,JR
+Sean,Draper,,CB,6000,190,SR
+Jake,Duzey,,TE,6040,248,SR
+Faith,Ekakitie,,DT,6030,290,JR
+Mick,Ellis,,PK,5100,180,SO
+Jalen,Embry,,DB,6000,184,RS FR
+Adrian,Falconer,,WR,6010,180,FR
+Steve,Ferentz,,OC,6020,267,JR
+Dalton,Ferguson,,OL,6040,307,RS FR
+Cole,Fisher,,OLB,6020,236,SR
+Maurice,Fleming,,WR,6000,205,JR
+Daniel,Gaffey,,DL,6020,260,RS SO
+Anthony,Gair,,FS,6020,200,JR
+Angelo,Garbutt,,LB,6020,210,Fr
+Jake,Gervase,,DB,6010,200,RS FR
+Eric,Graham,,RB,5090,195,Fr
+Brant,Gressel,,DL,6020,280,RS FR
+Eric,Grimm,,LB,6020,200,RS FR
+Trev,Hadachek,,WR,5110,180,RS FR
+Andre,Harris,,WR,6000,180,RS FR
+Terrence,Harris,,DE,6030,252,RS FR
+Parker,Hesse,,DE/OB,6030,240,RS FR
+C.J.,Hilliard,,RB,5100,195,RS FR
+Jacob,Hillyer,,WR,6040,212,SR
+Jack,Hockaday,,LB,6010,215,Fr
+Jake,Hulett,,DL,6030,265,RS SO
+Joshua,Jackson,,DB,6010,185,RS FR
+Garret,Jansen,,DE,6020,255,Fr
+Josey,Jewell,,OLB,6020,230,RS SO
+Justin,Jinning,,LB,6010,215,FR
+Jaleel,Johnson,,DT,6040,310,JR
+Marcel,Joly,,DB,5110,185,RS FR
+Justin,Joyce,,QB,6000,175,RS SO
+Connor,Keane,,WR,6010,195,RS SO
+Austin,Keey,,FB,5110,245,RS FR
+John,Kenny,,FB,6020,234,RS SO
+Mitch,Keppy,,OG,6050,300,JR
+Dillion,Kidd,,P,6020,215,JC/TR/SR
+Desmond,King,,CB,5110,200,JR
+George,Kittle,,TE,6040,235,JR
+Tyler,Kluver,,LS,6000,220,RS SO
+Marshall,Koehn,,PK,6000,200,SR
+Connor,Kornbrath,,P,6060,242,SR
+Henry,Krieger Coble,,TE,6040,250,SR
+Drake,Kulick,,FB,6010,228,RS SO
+Lucas,LeGrand,,OL,6050,280,RS FR
+Jake,Lemming,,WR,5090,175,RS SO
+Jordan,Lomax,,FS,5100,205,SR
+Greg,Mabin,,CB,6020,200,SR
+Steve,Manders,,FB,6010,235,RS SO
+Riley,McCarron,,WR,5090,186,JR
+Nate,Meier,,DE,6020,244,SR
+Aaron,Mends,,OLB,6000,212,RS FR
+Derrick,Mitchell Jr,,RB,6010,212,RS SO
+Boone,Myers,,OG,6050,300,RS SO
+Anthony,Nelson,,DE,6070,220,FR
+Matt,Nelson,,DE,6080,270,RS FR
+Jake,Newborg,,OG,6030,280,FR
+Ben,Niemann,,OLB,6030,225,SO
+Emmanuel,Ogwo,,WR,6000,170,FR
+Michael,Ojemudia,,LB,6020,190,FR
+Drew,Ott,,DE,6040,272,SR
+Jameer,Outsey,,LB,6030,235,RS FR
+Jonathan,Parker,,RB,5080,185,RS SO
+Landan,Paulsen,,OT,6050,290,FR
+Levi,Paulsen,,OT,6050,290,FR
+Peter,Pekar,,TE,6040,245,RS SO
+Travis,Perry,,ILB/OLB,6030,234,SR
+Macon,Plewa,,FB,6020,244,SR
+Bradley,Reiff,,DE,6040,235,FR
+Keegan,Render,,OT,6040,305,RS FR
+Ross,Reynolds,,OG,6040,300,RS FR
+Malik,Rucker,,DB,6000,180,RS SO
+Jay,Scheel,,WR,6010,195,RS FR
+Reid,Sealby,,OL,6040,290,JR
+Eric,Simmons,,OC/OG,6020,295,SR
+Michael,Slater,,DE,6020,265,FR
+Jerminic,Smith,,WR,6010,180,FR
+Tevaun,Smith,,WR,6020,205,SR
+Brandon,Snyder,,SS,6010,210,RS FR
+Jacob,Sobotka,,LB,6030,225,RS FR
+Melvin,Spears,,DE,6020,268,JR
+Andrew,Stone,,WR,5110,175,SR
+Miles,Taylor,,SS,6000,195,SO
+Kyle,Terlouw,,DT,6040,288,JR
+Omar,Truitt,,DB,5110,185,RS FR
+Matt,VandeBerg,,WR,6010,175,SO
+Nate,Vejvoda,,TE,6050,215,FR
+Akrum,Wadley,,RB,5110,180,RS FR
+Brett,Waechter,,OG/OT,6050,275,FR
+Jordan,Walsh,,OG,6040,290,SR
+Kevin,Ward,,SS,6010,205,RS SO
+Ryan,Ward,,OL,6050,290,JR
+Solomon,Warfield,,FS,6000,180,RS SO
+Sean,Welsh,,OG,6030,285,RS SO
+Tyler,Wiegers,,QB,6040,222,RS FR
+Nick,Wilson,,LB,6020,210,FR
+Jon,Wisnieski,,TE,6050,235,RS FR

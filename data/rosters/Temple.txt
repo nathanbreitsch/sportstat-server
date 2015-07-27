@@ -1,0 +1,127 @@
+first_name,last_name,suffix,position,height,weight,year
+Shahbaz,Ahmed,,DE,6030,296,SR
+Kareem,Ali,,CB,5110,175,FR
+Jarred,Alwan,,LB,6010,237,JR
+Nick,Apostolu,,OL,6050,306,RS FR
+Ryquell,Armstead,,RB,5110,205,FR
+Adeboye,Aromire,,SS,6000,206,RS SR
+Jeremiah,Atoki,,DB,6020,190,FR
+Shamir,Bearfield,,DB,5110,175,RS FR
+Samuel,Benjamin,,WR,6000,200,RS JR
+Freddie,Booth-Lloyd,,DT,6010,315,RS FR
+Cole,Boozer,,TE,6050,250,RS SO
+Tom,Bradway,,WR,5100,190,RS SO/TR
+Josiah,Bronson,,DL,6050,265,FR
+Ventell,Bryant,,WR,6030,181,RS FR
+Alex,Carling,,TE,6050,225,FR
+Brian,Carter,,OG,6030,309,RS SO
+Sean,Chandler,,CB,5110,185,SO
+John,Christopher,,WR/LS,5100,189,RS SR
+Brandon,Chudnoff,,DE,6020,260,RS SR
+Chapelle,Cook,,LB,6010,214,FR
+Jim,Cooper,Jr.,PK/P,6010,213,JR
+Anthony,Davis,,DB,5110,195,SO
+Dion,Dawkins,,OL,6050,318,JR
+Romond,Deloatch,,TE,6040,214,RS JR
+Julio,Derosier,,DL,6060,287,SR/TR
+Tim,DiGiorgio,,QB,6030,196,RS SO
+Michael,Dobge,,DL,6030,257,RS FR
+Rob,Dvoracek,,IB,6020,231,RS JR
+Matt,Eaton,,WR,6040,201,RS FR
+Marshall,Ellick,,WR,6020,191,RS SO/TR
+Avery,Ellis,,OLB,6020,249,RS JR
+Jovahn,Fair,,OL,6030,285,FR
+Brian,Fallon,,LS,6000,224,RS FR
+Michael,Felton,,LB,6000,232,SR
+Sharif,Finch,,OB,6040,257,JR
+Jared,Folks,,LB,6020,218,RS FR
+Artrel,Foster,,DB,6000,186,RS SO
+Kyle,Friend,,OC,6020,305,SR
+Jager,Gardner,,RB,6020,205,FR
+Jamie,Gilmore,,RB,5080,190,SR
+Daishaun,Grimes,,LB,6020,192,FR
+Nate,Hairston,,WR,6000,193,RS JR
+Will,Hayes,,FS,5090,192,RS SR
+Khalif,Herbin,,WR,5070,170,RS JR
+Rob,Heyen,,WR,6020,196,RS JR
+David,Hood,,RB,5090,185,RS FR
+Matt,Ioannidis,,DT,6040,292,SR
+Benson,Israel,,OL,6010,316,FR
+Cequan,Jefferson,,DB,5100,181,SO/TR
+Leon,Johnson,,OT,6060,320,RS SO
+Austin,Jones,,PK,5100,196,SO
+Jordan,Jones,,DL,6000,275,RS SO
+Todd,Jones,,LB,6010,220,FR
+DeAndre,Kelly,,DL,6030,238,FR
+Keith,Kirkwood,,WR,6030,214,JR/TR
+Josh,Lang,,LS,6020,210,RS SO/TR
+Bashir,Lee,,RB,5090,191,RS SO
+Corey,Lerch,,LS,5100,200,SO
+Dana,Levine,,DL,6040,213,FR
+Eric,Lofton,,OT,6050,302,RS SR
+John,Loughery,,QB,6040,225,RS JR/TR
+Khiry,Lucas,,CB,6020,200,SR/TR
+Saledeem,Major,,TE,6030,254,RS SR
+Logan,Marchi,,QB,6010,192,FR
+Stephaun,Marshall,,SS,5110,203,RS JR
+Jacob,Martin,,DE/OB,6030,231,SO
+Praise,Martin-Qguike,,DE,6020,255,RS JR
+Tyler,Matakevich,,OB,6010,232,SR
+Tyler,Mayes,,PT/PK,6020,204,RS SR
+Brendan,McGowan,,OG,6040,300,RS JR
+James,McHale,,OT,6060,300,RS FR
+Prosper,Mekoba,,DL,6020,248,FR
+Zach,Mesday,,LB,6010,227,RS FR
+Dean,Mosley,,QB,6030,201,RS JR
+Chris,Myarick,,TE,6050,237,RS FR
+Eric,Neefe,,RB,5100,237,RS SO
+Frank,Nutile,,QB,6040,219,RS FR
+Sam,O'Brien,,P,6020,178,RS FR
+MIchael,Ockimey,,DB,6030,215,FR
+Kip,Patton,,TE,6040,241,RS FR
+Roy,Pugh,,TE,6040,196,FR
+Haason,Reddick,,DL,6010,225,RS JR
+Semaj,Reed,,OG,6060,305,RS SO
+Rob,Ritrovato,,LB,6000,228,SO
+Ralph,Rizzolo,,LS,6010,240,RS FR
+Averee,Robinson,,NT,6010,285,JR
+Jaelin,Robinson,,OT,6060,319,RS FR
+Jake,Robinson,,TE,6030,208,FR
+Aaron,Ruff,,OL,6030,308,RS FR
+Thomas,Rumer,,QB,6030,218,RS JR
+John,Ruza,,WR,6010,178,RS FR
+Jarrid,Satterfield,,RB/CB,5100,170,RS FR
+Nick,Sharga,,LB,6020,240,RS SO/TR
+Brandon,Shippen,,CB,5110,191,SR
+TJ,Simmons,,RB,6010,195,FR
+Cortrelle,Simpson,,WR,5100,175,FR
+Deon,Smith,,LB,6030,234,FR
+Nate D.,Smith,,DL,6000,236,RS SR
+Nate L.,Smith,,FS,6010,188,RS JR
+Willie,Smith III,,WR,5110,175,FR
+Alex,Starzyk,,PT,6030,213,SO
+Adrian,Sullivan,,OL,6050,293,RS SO
+David,Sweetman,,DB,5100,183,RS FR
+Jullian,Taylor,,DL,6050,270,RS SO
+Kiser,Terry,,DE,6030,275,JR
+Derrek,Thomas,,WR,6040,190,SO/TR
+Gordon,Thomas,,OL,6000,306,RS FR
+Jahad,Thomas,,CB,5100,180,JR
+Jyquis,Thomas,,DB,6010,197,RS FR
+Colin,Thompson,,TE,6040,250,RS JR/TR
+Chris,Tronoski,,LB,5090,200,RS FR
+William,Updegrove,,LB,6020,230,FR
+P.J.,Walker,,QB,6010,200,JR
+Niko,Walsh,,LS,5090,215,RS SO/TR
+Hershey,Walton,,NT,6040,314,RS SR
+Greg,Webb,,DL,6010,312,RS SO/TR
+Alex,Wells,,FS,6000,203,SR/TR
+Roy,Wesley,,RB,5080,187,RS SO
+Avery,Williams,,RB,5100,200,RS JR
+Billy,Williams,,WR,5090,160,RS FR
+Lenny,Williams,,QB,5100,196,RS FR
+Zaire,Williams,,RB,5110,200,RS SO
+Taiyir,Wilson,,LB,6020,210,FR
+Brodrick,Yancy,,WR,5110,187,SO
+Dawayne,Young,,DL,6030,280,FR
+Tavon,Young,,CB,5100,180,SR

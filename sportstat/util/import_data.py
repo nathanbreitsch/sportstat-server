@@ -10,7 +10,7 @@ session = DBSession()
 osu = Team(name = "Buckeyes",
             city = "Columbus",
             state = "Ohio")
-session.add(osu)
+ession.add(osu)
 
 
 bama = Team(name = "Alabama",

@@ -1,0 +1,96 @@
+first_name,last_name,suffix,position,height,weight,year
+Torey,Agee,,DT,6040,277,RS JR
+Kyle,Anderton,,TE,6040,252,FR
+Caleb,Azubike,,DE,6040,270,SR
+Jalen,Banks,,DB,5110,195,RS SO
+Ladarius,Banks,,FB,6020,270,RS SO
+Gaither,Barker,,LS,6010,230,JR
+Tre,Bell,,CB,5110,176,RS SO
+Jake,Bernstein,,OG,6040,312,RS SR
+Khari,Blasingame,,ILB,6010,217,RS FR
+Nigel,Bowden,,ILB,6010,245,RS SO
+Oren,Burks,,FS,6030,212,RS SO
+Adam,Butler,,DT,6040,305,RS JR
+Rashad,Canty,,WR,6030,215,RS FR
+Sekou,Clark,,DL,6030,264,RS FR
+Colby,Cooke,,P/PK,6030,220,RS JR
+Josh,Crawford,,RB,5100,205,FR
+Delando,Crooks,,OG,6050,312,RS SO
+Zach,Cunningham,,ILB,6040,234,RS SO
+Jalen,Dansby,,WR,5110,190,SO
+Darion,DeBrossard,,OL,6050,330,FR
+EJ,DellaRipa,,OL,6040,300,SO/TR
+Sam,Dobbs,,TE,6040,215,FR
+Brian,Doney,,WR,5100,184,SO
+Chandler,Dorrell,,WR,6000,182,RS SO/TR
+Sean,Dowling,,TE,6060,273,RS SO
+C.J.,Duncan,,ATH,5110,200,RS SO
+Trey,Ellis,,WR,5090,165,SO
+Taurean,Ferguson,,CB,5090,185,RS SO
+Wade,Freebeck,,QB,6050,224,SO
+Blake,Fromang,,OT,6070,300,RS JR
+Jaire,George,,RB,6010,215,FR
+Barrett,Gouger,,OG,6040,305,RS JR
+Bailey,Granier,,OT,6060,314,RS FR
+Curtis,Graves,,WR,6010,197,JR
+Jordan,Griffin,,ILB,6010,215,FR
+Cole,Hardin,,OC,6040,305,RS FR
+Harding,Harper,,LB,6020,240,RS JR
+Tre,Herndon,,CB,6010,172,SO
+Darreon,Herring,,ILB,6020,232,SR
+Jay,Hockaday,,ATH,6030,215,FR
+Will,Holden,,OT,6060,312,RS JR
+Bradyn,Jasper,,OLB,6020,230,SO
+Andrew,Jelks,,OT,6060,305,RS JR
+Wilson,Johnson,,LS,6020,210,JR
+Kris,Kentera,,WR,6040,213,RS SR
+Nifae,Lealao,,DL,6050,320,SO
+Hayden,Lekacz,,PK,6010,195,SO
+Bryce,Lewis,,DB,6000,181,RS FR
+Nathan,Marcus,,TE,6050,238,RS SO
+Chris,Martin,,FB,5100,234,SR
+Kevin,McCoy,,OL,6050,310,RS JR
+Johnny,McCrary,,QB,6040,224,RS SO
+Torren,McGaster,,CB,6000,196,RS JR
+Jahmel,McIntosh,,SS,6010,200,RS SR
+Nehemiah,Mitchell,,OLB/DE,6040,260,JR/TR
+Ronald,Monroe,,WR,6030,200,RS FR
+Reid,Nelson,,P,6020,190,SO
+Dare,Odeyingbo,,OLB,6020,242,FR
+Tommy,Openshaw,,PK/P,6020,185,RS SO
+Caleb,Peart,,OLB,6010,240,FR
+Ean,Pfeifer,,OL,6040,285,FR
+Jared,Pinkney,,WR,6040,232,FR
+Spencer,Pulley,,OC/OG,6040,300,SR
+Latevius,Rayford,,WR,6010,192,JR
+Bruno,Reagan,,OG,6030,330,RS FR
+Andrew,Rector,,S,6000,195,FR
+Dallas,Rivers,,RB,6010,225,SO
+Steven,Scheu,,TE,6050,245,RS SR
+Jacob,Schultz,,LS,6040,220,JR
+Caleb,Scott,,WR,6010,195,SO
+Jake,Sealand,,LB,6020,230,SR
+Donovan,Sheffield,,DB,5110,180,FR
+Trent,Sherfield,,WR,6000,198,SO
+Kyle,Shurmur,,QB,6040,215,FR
+Darrius,Sims,,RB/RS,5090,182,JR
+Justin,Skule,,OL,6070,310,FR
+Emmanuel,Smith,,S,6020,224,SO
+Josh,Smith,,ILB,6030,234,FR
+Jared,Southers,,OL,6050,300,FR
+Jared,Southers,,OL,6050,300,FR
+Shawn,Stankavage,,QB,6020,197,RS FR
+Landon,Stokes,,DE,6040,240,RS SO
+Tre,Tarpley,,FS,6000,209,SO
+Ja'karri,Thomas,,ILB,6010,235,RS JR
+Riley,Tindol,,DL,6050,275,RS FR
+Stephen,Weatherly,,DE,6050,250,RS JR
+Ralph,Webb,,RB,5100,200,RS SO
+Ryan,White,,DB,5090,188,RS SO
+Ladarius,Wiley,,DB,6010,205,SO
+Andrew,Williamson,,FS,6010,208,RS SR
+Davis,Winkie,,SN,6040,245,RS FR
+DeAndre,Woods,,WR/TE,6030,237,RS SO
+Jay,Woods,,DE,6030,283,RS SO
+Charles,Wright,,OLB,6030,236,RS FR
+Jonathan,Wynn,,DE,6040,248,RS SO

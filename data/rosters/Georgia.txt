@@ -1,0 +1,125 @@
+first_name,last_name,suffix,position,height,weight,year
+Johnathan,Abram,,FS,6010,200,FR
+Patrick,Allen,,OT,6040,285,FR
+Chuks,Amaechi,,LB,6030,220,JR/TR
+John,Atkins,,DL,6040,299,RS SO
+Sterling,Bailey,,DE,6030,280,RS SR
+Deandre,Baker,,DB,5110,175,FR
+Kendall,Baker,,OT,6060,310,RS FR
+Collin,Barber,,P,6020,208,SR
+Michael,Barnett,,DE,6040,276,FR
+Faton,Bauta,,QB,6030,218,RS JR
+Patrick,Beless,,PK,5090,162,SR
+Davin,Bellamy,,OLB,6050,240,RS SO
+Detric,Bing-Dukes,,FB,6000,230,RS FR
+Jeb,Blazevich,,TE,6050,232,SO
+Devin,Bowman,,CB,6000,180,RS SR
+Juwuan,Briscoe,,SS,5110,185,FR
+Keyon,Brown,,OLB,6030,247,RS FR
+Dominic,Bryan,,FB,6000,244,RS JR
+Aulden,Bynum,,OG,6050,276,RS SO
+Josh,Cardiello,,OG,6030,297,RS SO
+Lorenzo,Carter,,OLB,6060,237,SO
+Reggie,Carter,,ILB,6010,231,JR
+Jared,Chapple,,TE,6040,227,RS JR
+Michael,Chigbu,,WR,6020,220,FR
+Nick,Chubb,,RB,5100,228,SO
+Kirby,Coates,,DB,6000,184,FR
+John,Courson,,LS,5110,189,RS FR
+Colter,Creswell,,WR,6030,190,JR
+Tae,Crowder,,RB,6030,220,FR
+Kennar,Daniels-Johnson,,CB,6020,192,SR
+Aaron,Davis,,CB,6010,189,RS SO
+James,Davis,,SS,5110,199,SR
+Jordan,Davis,,TE,6040,230,RS SO
+Reggie,Davis,,WR,6000,170,JR
+Josh,Dawson,,DE,6040,266,SR
+James,DeLoach,,DT,6030,276,SR
+Brendan,Douglas,,RB,5110,213,JR
+Jake,Edwards,,OL,6040,273,RS FR
+Alex,Essex,,OT,6050,269,RS FR
+Cameron,Faulkner,,FB,5110,231,SR
+Shattle,Fenteng,,DB,6020,187,JR/TR
+Leonard,Floyd,,OLB,6040,230,JR
+Matthew,Fox,,FB,6030,210,RS FR
+Trent,Frix,,LS,6000,209,JR/TR
+Lamont,Gaillard,,DT,6020,305,RS FR
+Jake,Ganus,,ILB,6020,215,SR/TR
+Devin,Gillespie,,SS,5100,189,RS JR
+Terry,Godwin,,WR,5110,170,FR
+Jonah,Guinn,,FS,6000,196,JR
+William,Ham,,PK,6030,168,RS FR
+Sage,Hardin,,OL,6060,270,FR
+Jackson,Harris,,TE,6060,247,FR
+DaQuan,Hawkins,,DT,6040,302,FR
+Charlie,Hegedus,,WR,6020,208,JR/TR
+Matthew,Herzwurm,,LS,6000,225,RS SO
+Quayvon,Hicks,,FB,6020,257,SR
+Kolton,Houston,,OT,6050,287,SR
+John,Huff,,ILB,6010,220,SR
+Jordan,Jenkins,,OLB,6030,252,SR
+Clay,Johnson,,WR,6010,171,RS SO
+Jesse,Jones,,FS,6000,191,RS SR
+Tim,Kimbrough,,ILB,6000,230,JR
+Brandon,Kublanow,,OG,6030,294,JR
+Jonathan,Ledbetter,,DE,6040,251,FR
+Joseph,Ledbetter,,TE,6040,235,RS SO
+Hunter,Long,,C,6040,302,RS SR
+Tommy,Long,,OLB,6020,228,RS JR
+Sam,Madden,,OL,6060,350,FR
+Keith,Marshall,,RB,5110,215,SR
+Quincy,Mauger,,SS,6000,200,JR
+Chris,Mayes,,NT,6040,317,RS SR
+Gary,McCrae,,LB,6040,220,FR
+Shaun,McGee,,LB,6030,233,RS SO
+Rico,McGraw,,DB,6000,190,FR
+Isaiah,McKenzie,,WR,5080,164,SO
+Eddie,McQuillen,,OT,6080,286,RS SR
+Sony,Michel,,RB,5110,208,SO
+Clete,Miller,,FB,6020,223,FR
+Malcolm,Mitchell,,WR,6010,195,SR
+Marshall,Morgan,,PK,6030,200,SR
+Javonte',Nelson,,FS,5110,198,SR
+Johnny,O'Neal,,LB,6020,240,JR
+Jacob,Park,,QB,6040,202,RS FR
+Malkom,Parrish,,CB,5100,194,SO
+Natrez,Patrick,,ILB,6030,248,FR
+Christian,Payne,,FB,6010,222,SO
+Matt,Price,,WR,6000,190,RS FR
+Thomas,Pritchard,,PK,5100,164,RS JR
+Greg,Pyke,,OG,6060,321,RS JR
+Brice,Ramsey,,QB,6030,216,RS SO
+Ryne,Rankin,,ILB,6010,215,JR
+Chauncey,Rivers,,DE,6030,252,FR
+Jay,Rome,,TE,6060,248,RS SR
+Rashad,Roundtree,,DB,6010,195,FR
+Dominick,Sanders,,FS,6000,187,SO
+Justin,Scott-Wesley,,WR,5110,210,RS SR
+Michael,Scullin,,OL,6020,285,RS SO
+Billy,Seward,,OG,6030,270,RS SO
+DeVondre,Seymour,,OL,6060,310,JR/TR
+Dyshon,Sims,,OG,6040,302,SO
+Roquan,Smith,,LB,6010,205,FR
+Ben,Souther,,TB,6020,207,SR
+Jayson,Stanley,,WR,6020,198,FR
+Tanner,Stumpe,,PK,5080,161,RS FR
+Thomas,Swilley,,OL,6030,301,RS SO
+Juwan,Taylor,,LB,6010,195,FR
+Tramel,Terry,,SS,6000,197,RS SO
+John,Theus,,OT,6060,313,SR
+Nathan,Theus,,LS,6030,236,RS SR
+Trenton,Thompson,,DT,6040,311,FR
+Blake,Tibbs,,WR,6020,180,RS JR
+Kenneth,Towns,,WR,6030,205,RS JR
+A.J.,Turman,,RB,6000,212,RS SO
+Ridge,Underwood,,ILB,6020,227,JR/TR
+Steven,Van Tiflin,,WR,6010,195,RS FR
+Sam,Vaughn,,QB,6030,188,RS FR
+D'Andre,Walker,,LB,6030,212,FR
+Glenn,Welch,,OC,6030,280,RS SO
+Reggie,Wilkerson,,CB,5110,181,RS SO
+Shakenneth,Williams,,WR,6010,197,SO
+Jarvis,Wilson,,CB,6020,190,FR
+Shaquery,Wilson,,ATH,6010,190,FR
+Isaiah,Wynn,,OC,6020,283,SO
+Justin,Young,,DE,6040,255,FR

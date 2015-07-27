@@ -1,0 +1,125 @@
+first_name,last_name,suffix,position,height,weight,year
+Shadrach,Abrokwah,,RB,5090,202,JR
+Alfred,Adarkwah,,WR,6040,195,RS FR
+Jarell,Addo,,DB,6020,195,RS FR
+Lucas,Amato,,DB,6000,218,RS SO
+Peter,Angeh,,DE,6020,263,JR
+Dmitri,Angelas,,OL,6050,291,RS FR
+Christian,Appia,,LB,5110,225,RS FR
+Enock,Asante,,DE,6020,270,JR
+Khary,Bailey-Smith,,FS,6020,194,SR
+Elijah,Barrows,,WR,6010,180,RS JR
+DuVaughn,Beckford,,DB,6000,185,RS SR
+Zach,Belcher,,LS,6010,205,SR
+Nick,Berus,,LS,6010,213,RS FR
+Michael,Boland,,OG,6070,315,RS JR
+James,Bowe Jr.,,LB,6020,200,FR
+Kelton,Brackett,,CB,5110,200,SR/TR
+Manwon,Brisbane,,RB,5090,195,RS SO
+Josh,Bruns,,OC/OG,6050,303,RS SR
+Michael,Caggiano,,PK,5100,170,FR
+Chris,Carter,,DT,6040,276,RS FR
+Steve,Casali,,ILB,6020,232,RS SO
+Joe,Colton,,SS,5100,195,SR
+Peter,Comaroto,,LS,5110,215,FR
+Ross,Comis,,QB,6020,205,RS FR
+Jack,Coveney,,K,6010,180,FR
+Sharif,Custis,,TE,6030,220,RS SO
+Bernard,Davis,,WR,6010,195,SR
+Basit,Dennis,,DL,6020,280,RS FR
+Jon,Derolus,,WR,6000,175,FR
+Joel,Devariste,,LB,6010,215,RS FR
+Dan,DiNicola,,OL,6060,290,RS FR
+Michael,Dowe,Jr.,DL,6020,260,RS JR
+Da'Sean,Downey,,DL,6050,242,SO
+A.J.,Doyle,,QB,6030,238,RS JR
+Jack,Driscoll,,OL,6040,250,FR
+Trey,Dudley-Giles,,CB,5110,182,SR
+Derek,Dumais,,OL,6050,325,FR
+Zeke,Edmonds,,LB,6000,200,SO
+Dejion,Evans,,WR,6030,203,FR
+Anthony,Fernandez,,OL,6060,302,RS FR
+Jordan,Fiske,,TE,6030,243,RS FR
+Sam,Franklin,,WR,6040,194,FR
+Blake,Frohnapfel,,QB,6060,238,RS SR/TR
+Jordin,Hamilton,,DB,5090,185,SO/TR
+D'Shan,Harley,,DL,6050,215,FR
+Shaquille,Harris,,WR,6020,224,RS SO
+Tyshon,Henderson,,OT,6070,339,JR
+Fabian,Hoeller,,OG,6030,295,JR
+Sha-Ki,Holines,,DT,6040,274,RS SO
+Kyle,Horn,,TE,6040,250,FR
+Brandon,Howard,,TE,6050,265,RS SR
+Shane,Huber,,ILB,6030,250,RS SO
+Andy,Isabella,,ATH,5100,185,FR
+Randall,Jette,,CB,5110,185,RS SR
+Ryan,Johnson,,OT,6050,320,SR
+Dan,Jonah,,WR,5110,198,RS SR
+Jaurice,Jones,,SS,6010,186,RS JR
+Darrian,Josey,,WR,6020,165,RS FR/TR
+Kenny,Kearn,,RB,6000,227,FR
+T.J.,Kelley,,WR,6060,215,FR
+Aaron,Kinsey,,LB,6050,210,FR
+Robert,Kitching,,DL,6010,310,SR
+Lukas,Kolter,,OG,6030,325,SO
+Vondell,Langston,,LB,6000,220,RS JR
+Jake,Largay,,NT,6060,310,RS FR
+Logan,Laurent,,P,6030,210,RS SO
+Connor,Lemieux,,WR,6020,200,RS SO
+Al,Leneus,,OL,6020,320,SR
+Andrew,Libby,,ATH,6010,215,SO
+Sekai,Lindsay,,RB,5090,210,FR
+Elgin,Long,,WR,5100,185,RS SR
+Kevin,Lovaincy,,WR,6040,202,RS JR
+Blake,Lucas,,K,5080,166,SR
+Jon,Lucier,,TE,6060,220,RS FR
+Artayvious,Lynn,,TE,6060,205,FR
+Daquan,Mack,,RB,6010,255,RS SO
+Brandon,Mangram,,DB,5100,180,FR
+Kassan,Messiah,,OLB,6040,242,SR
+Marken,Michel,,WR,5100,185,RS SR
+Rodney,Mills,,WR,6020,215,SR
+Cameron,Mock,,OL,6070,300,RS SO
+Jesse,Monteiro,,DB,5110,175,RS SO
+Micah,Morel,,DB,6000,200,FR
+Lee,Moses,,DB,6010,190,FR
+Seamus,Murray,,OL,6020,230,RS FR
+Shakur,Nesmith,,WR,6050,200,RS SO
+Peter,Ngobidi,,OLB,6020,221,JR
+Jesse,Noel,,WR,,,SO
+James,Oliphant,,DB,5090,165,FR
+Femi,Oyewole,,OL,6010,265,RS JR
+Joe,Parsons,,OL,6040,305,FR
+Mario,Patton,,DL,6040,315,FR
+Jackson,Porter,,CB,6010,192,RS SO
+Joe,Previte,,OL/DL,6030,285,RS FR
+Travis,Reynolds,,TE,6060,245,FR
+Adam,Richard,,OLB,6030,220,RS JR
+Marhall,Robinson,,DL,6040,340,FR
+John,Robinson-Woodgett,,OLB,6020,232,RS JR
+Thomas,Rodrick,,LB,6030,230,FR/TR
+Jeremy,Rodriguez,,DB,6020,215,RS FR
+Jovan,Santos-Knox,,ILB,6020,240,SR
+Trey,Seals,,OLB,6040,240,RS SR
+Tajae,Sharpe,,WR,6030,200,SR
+Charan,Singh,,FS,6020,192,RS FR
+Tyrell,Smith,,OT,6050,315,RS JR
+James,Sosinski,,QB,6070,240,FR
+Matt,Sparks,,OC,6040,300,SR
+Todd,Stafford,,QB,6070,272,RS SO
+Lamarriel,Taylor,,WR,6030,185,FR
+Reche,Thomas,,OL,6040,315,FR
+Matt,Tuleja,,RB,6020,260,SR
+Joe,Tyo,,DL,6050,264,RS SO
+Andrew,Verboys,,QB,5110,200,RS FR
+Randall,West,,QB,6050,220,FR
+Austin,Whipple,,QB,6010,203,RS SO/TR
+Elijah,Wilkinson,,OT,6050,325,RS SO
+Jalen,Williams,,WR,6040,200,SR/TR
+Mehki,Williams,,RB,5090,180,FR
+Jamal,Wilson,,RB,5100,209,RS SR
+Lorenzo,Woodley,,RB,6010,212,JR
+D.J.,Woods,,WR,5090,173,RS SO
+Michael,Yerardi,,OL,6040,295,FR
+Theo,Yongue,,K,5080,165,FR
+Marquis,Young,,RB,5110,200,FR

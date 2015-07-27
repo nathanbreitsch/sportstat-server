@@ -1,0 +1,83 @@
+first_name,last_name,suffix,position,height,weight,year
+Reid,Althoff,,DT,6040,255,RS So
+Ryan,Anderson,,OG,6060,290,RS Fr.
+Bowman,Archibald,,TE,6050,245,Fr.
+Charles,Argenzio,,FB,6000,230,Jr.
+John,Armstrong,,WR,5090,165,Jr.
+Josh,Banks,,DE,6040,275,RS Jr.
+Thomas,Brown,,SS,6030,220,Jr.
+Adam,Centers,,PK,6000,195,So.
+Taylor,Chambers,,OT,6080,290,RS So
+Brandon,Chubb,,ILB,6010,245,RS Sr.
+Jared,Crump,,WR,6030,205,RS Jr
+Deonte,Davis,,CB,5100,185,Jr.
+Grant,Dawson,,ILB,6010,225,RS So.
+Thomas,Dillon,,CB,5100,180,RS Fr
+Steve,Donatell,,OLB,6060,230,RS Jr.
+Kyle,Driscoll,,QB,6010,215,RS Fr.
+Wendell,Dunn,,OLB,6030,250,RS So
+Duke,Ejiofor,,DE,6040,275,RS So.
+Rocco,Esposito,,OG,6050,315,RS So.
+William,Flood,,DE,6020,275,Jr.
+Cameron,Gardner,,OT,6050,285,RS So.
+Cameron,Glenn,,FS,6010,105,RS Fr
+Hunter,Goodwin,,OT,6060,300,RS JR
+Zach,Gordon,,TE,6050,245,RS SO
+Josh M.,Harris,,CB,6000,200,JR.
+Josh T.,Harris,,OG,6040,310,Jr.
+Tylor,Harris,,DE,6040,305,Sr.
+Tyree,Harris,,WR,6030,185,RS So
+Phil,Haynes,,OG,6040,280,RS Fr
+Tyler,Hayworth,,OG,6040,325,RS Jr.
+Tyler,Henderson,,RB,5090,180,So.
+Tyler,Henderson,,RBKR,5090,180,FR
+Justin,Herron,,OG,6050,290,RS Fr.
+Tabari,Hines,,WR,5100,165,Fr
+Kendall,Hinton,,QB,6000,185,Fr
+P.J.,Howard IV,,WR,6010,190,RS Sr.
+Dylan,Intemann,,OT,6050,305,RS Sr.
+Ryan,Janvion,,SS,5110,190,RS Jr
+Kevis,Jones,,OLB,6020,230,RS SO
+Demetrius,Kemp,,FS,6010,205,RS Fr.
+Alexander,Kinal,,P,6040,205,RS Sr.
+Ali,Lamot,,OLB,6020,265,RS So
+Jalen,Latter,,CB,6000,190,Jr.
+Marquel,Lee,,ILB,6030,235,Jr.
+Shelldon,Lewinson,,NT,6020,260,RS Jr
+Cortez,Lewis,,WR,6010,205,RS Fr.
+Nick,Luedeke,,OT,6050,265,RS Fr.
+Teddy,Matthews,,ILB,6030,240,RS Jr
+Kalin,McNeil,,MLB,6010,225,RS Fr.
+Brendan,O'Neil,,TE,6040,230,RS So
+Josh,Okonye,,CB,6000,200,RS So
+Patrick,Osterage,,OG,6040,300,RS Fr.
+Vincent,Paolucci,,OLB,6000,225,RS Fr.
+Christopher,Pearcey,,RB,5110,195,RS Fr.
+Devin,Pike,,TE,6060,245,So.
+Allen,Ramsey,,CB,6000,190,RS JR
+Isaiah,Robinson,,RB,5010,225,So.
+Zeek,Rodney,,DT,6010,295,So.
+Cam,Serigne,,TE,6030,245,RS So.
+Rashawn,Shaw,,DE,6030,250,RS Fr.
+Will,Smith,,OT,6050,305,RS Jr
+Kevin,Sousa,,QB,6030,230,RS Jr
+Maddox,Stamey,,WR,6020,180,RS Jr
+Chris,Stewart,,DE,6030,260,RS Fr
+Spencer,Stone,,FB,6030,225,RS So.
+Joel,Suggs,,OT,6060,300,RS Jr
+A'Lique,Terry,,OC,6010,310,So
+Julian,Thomas-Jackson,,OLB,6040,220,RS So
+Lance,Virgile,,OLB,6020,220,RS So
+James,Ward,,RB,5100,210,RS JR.
+Harry,Warner,,OL,6030,260,RS Fr
+Zack,Wary,,OLB,6040,225,RS Fr
+Brad,Watson,,CB,6000,190,Jr.
+Mike,Weaver,,P/PK,6010,180,RS So
+Hunter,Williams,,ILB,6000,220,RS SR
+Jaboree,Williams,,OLB,6000,240,So
+Jonathan,Williams,,WR,6040,185,RS Jr
+Chase,Wilson,,LS,6020,210,RS So
+Garrett,Wilson,,LS,6030,195,Fr
+John,Wolford,,QB,6010,205,So
+Dezmond,Wortham,,RB,6000,205,RS So
+Willie,Yarbary,,DT,6020,280,RS Fr

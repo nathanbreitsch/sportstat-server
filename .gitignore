@@ -8,3 +8,7 @@ __pycache__
 *.egg-info/
 .ipynb_checkpoints
 build
+nathan
+data/rosters/*.html
+notebooks/*scraper.ipynb
+scrapers

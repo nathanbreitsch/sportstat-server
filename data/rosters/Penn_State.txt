@@ -1,0 +1,127 @@
+first_name,last_name,suffix,position,height,weight,year
+Marcus,Allen,,FS,6020,206,SO
+Mark,Allen,,RB,5070,186,RS FR
+Kyle,Alston,,DB,5090,178,RS SO
+Troy,Apke,,WR,6010,201,SO
+Matthew,Baney,,LB,6000,234,SR
+Saquon,Barkley,,RB,5110,190,FR
+Tarow,Barney,,DT,6010,310,SR
+Ryan,Bates,,OL,6050,275,FR
+Noah,Beh,,OL,6060,282,RS FR
+Brandon,Bell,,OLB,6010,231,JR
+Gordon,Bentley,,WR,6020,189,RS SO
+Joe,Berg,,S,6000,201,RS FR
+Saeed,Blacknall,,WR,6030,215,SO
+Nick,Boumerhi,,K,5090,182,RS FR
+Manny,Bowen,,LB,6020,206,FR
+Nick,Bowers,,TE,6040,245,FR
+Adam,Breneman,,TE,6040,252,RS SO
+Brendan,Brosnan,,OG,6060,297,RS FR
+Torrence,Brown,,DE,6030,256,RS FR
+Ryan,Buchholz,,DL,6060,241,FR
+Jason,Cabinda,,OLB,6010,248,SO
+Christian,Campbell,,CB,6010,186,SO
+Kamonte,Carter,,DE,6040,257,FR
+Kyle,Carter,,TE,6030,241,RS SR
+Colin,Castagna,,DE,6040,243,FR
+Irvin,Charles,,WR,6040,215,FR
+Jake,Cooper,,LB,6020,226,FR
+Sean,Corcoran,,LS,6000,206,RS SO
+Curtis,Cothran,,DE,6050,258,RS SO
+Parker,Cothren,,DT,6050,292,RS SO
+Da'Quan,Davis,,CB,5100,174,SR
+Desi,Davis,,WR,5100,172,RS SO
+Tyler,Davis,,K/P,5100,185,SO
+Adam,DeBoef,,G/C,6050,273,RS FR
+Tom,Devenney,,OC,6010,310,RS SO
+Kyler,Diehl,,WR,6040,191,RS FR
+Derek,Dowrey,,OG,6030,323,RS JR
+Jordan,Dudas,,LB,6000,214,SR
+Will,Eikenberry,,DE,6020,227,RS FR
+Koa,Farmer,,OLB,6010,219,RS FR
+Billy,Fessler,,QB,5110,183,RS FR
+Seth,Ford,,S,5100,187,RS FR
+Brian,Gaia,,RG,6030,301,RS JR
+Evan,Galimberti,,OG,6040,287,RS SO
+Gregg,Garrity,,WR,5090,160,JR
+Adam,Geiger,,RB,5090,200,JR
+Mike,Gesicki,,TE,6060,255,SO
+Kevin,Givens,,DL,6010,245,FR
+Chris,Godwin,,WR,6020,206,SO
+Malik,Golden,,FS,6010,205,RS JR
+Steven,Gonzalez,,OL,6040,328,FR
+Chris,Gulla,,PK/P,6000,202,RS SO
+Christian,Hackenberg,,QB,6040,236,JR
+Jack,Haffner,,RB,5100,217,RS JR
+Grant,Haley,,CB,5090,186,SO
+Albert,Hall,,OT,6040,296,RS JR
+Yannik,Haller,,K,6010,225,RS FR
+DaeSean,Hamilton,,WR,6010,211,RS SO
+Bryant,Harper,,S,5090,215,JR
+Colin,Harrop,,S,6000,178,RS JR
+Jonathan,Holland,,TE,6040,235,FR
+Joe,Holmes,,DT,5100,265,RS FR
+Charles,Idemudia,,TE/H,5110,255,RS JR
+Sterling,Jenkins,,T,6080,321,FR
+Austin,Johnson,,DT,6040,325,RS JR
+Brandon,Johnson,,RB,6010,229,SR
+Juwan,Johnson,,WR,6040,212,FR
+Joey,Julius,,PK,5110,244,RS FR
+Daiquan,Kelly,,LB,6020,205,FR
+Jake,Kiley,,WR,6000,172,RS JR
+Ben,Kline,,ILB,6020,238,RS SR
+Zach,Ladonis,,LS,6020,234,RS SO
+Wendy,Laurent,,OC,6020,292,RS JR
+Geno,Lewis,,WR,6010,206,RS JR
+Robby,Liebel,,P,6020,200,RS FR
+Jordan,Lucas,,CB,6000,198,SR
+Akeel,Lynch,,RB,6000,220,RS JR
+Brendan,Mahon,,LOG,6040,316,RS SO
+Angelo,Mangiro,,OC,6030,315,RS SR
+Josh,McPhearson,,WR,5090,195,SO
+Trace,McSorley,,QB,6000,195,RS FR
+Jarvis,Miller,,DB,6020,197,FR
+Shareef,Miller,,DE,6050,230,FR
+Ayron,Monroe,,DB,6000,197,FR
+Carl,Nassib,,DE,6060,270,SR
+Andrew,Nelson,,RT,6050,310,RS SO
+Amani,Oruwariye,,DB,6010,196,RS FR
+Paris,Palmer,,OT,6070,278,JR
+Tom,Pancoast,,TE,6020,228,RS SO
+Daniel,Pasquariello,,P,6000,204,SO
+Johnny,Petrishen,,DB,6010,189,FR
+Brandon,Polk,,WR,5090,163,FR
+Troy,Reeder,,OLB,6010,235,RS FR
+John,Reid,,DB,5100,181,FR
+Andre,Robinson,,RB,5090,215,FR
+Dominic,Salomone,,FB,5100,245,RS JR
+Evan,Schwan,,DE,6060,258,RS JR
+Nick,Scott,,RB,5110,201,RS FR
+Charlie,Shuman,,T,6080,290,RS FR
+Garrett,Sickels,,DE,6040,262,RS SO
+Anthony,Smith,,Saf,6000,206,RS SO
+Brandon,Smith,,FB,6000,227,RS SO
+Jordan,Smith,,CB,5110,189,JR
+Chance,Sorrell,,OT,6050,285,RS FR
+Evan,Steinfield,,LB,6030,201,RS FR
+Tommy,Stevens,,QB,6040,197,FR
+Tommy,Stivason,,K,5110,182,RS FR
+Garrett,Taylor,,DB,6000,196,FR
+Johnathan,Thomas,,RB,5110,215,RS FR
+DeAndre,Thompkins,,WR,5110,187,RS FR
+Brian,Tomasetti,,Saf,6010,189,RS SO
+Javon,Turner,,WR,5100,180,RS FR
+Luke,Vadas,,WR,5110,160,RS SO
+Kyle,Vasey,,SN,6020,262,RS FR
+Von,Walker,,LB,5110,213,JR
+Nyeem,Wartman,,OLB,6010,243,RS JR
+Antoine,White,,DT,6010,289,RS FR
+Brent,Wilkerson,,TE,6030,253,RS JR
+Trevor,Williams,,CB,6010,196,SR
+Robert,Windsor,,DL,6040,278,FR
+Gary,Wooten,,LB,6020,239,RS JR
+Daquan,Worley,,DB,5100,183,RS FR
+Chasz,Wright,,OG/OT,6070,328,RS FR
+Tyler,Yazujian,,LS,6000,251,RS JR
+Matt,Zanellato,,WR,6030,211,RS SR
+Anthony,Zettel,,DT/DE,6040,278,SR

@@ -6,7 +6,7 @@ Design from:
 http://flask.pocoo.org/docs/0.10/patterns/sqlalchemy/
 
 Call `init_db()` from application before using database.
-To use a database other than an in-memory default, set `__dbname__` to the 
+To use a database other than an in-memory default, set `__dbname__` to the
 correct database url at the global scope before importing this module.
 
     __dbname__ = 'sqlite:////tmp/test.db'
@@ -17,9 +17,12 @@ from sqlalchemy import create_engine
 from sqlalchemy.orm import scoped_session, sessionmaker
 from sqlalchemy.ext.declarative import declarative_base
 
+#this doesn't work because...
+#if '__dbname__' not in globals():
+#    __dbname__ = 'sqlite://'
 
-if '__dbname__' not in globals():
-    __dbname__ = 'sqlite://'
+#probs will only be one db anyway during dev
+__dbname__ = 'sqlite:////tmp/test.db'
 
 engine = create_engine(__dbname__, convert_unicode=True)
 session = scoped_session(sessionmaker(autocommit=False,

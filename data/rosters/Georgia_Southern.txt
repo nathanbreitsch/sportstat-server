@@ -1,0 +1,113 @@
+first_name,last_name,suffix,position,height,weight,year
+Jake,Abraham,,LS,5090,213,JR
+Kevin,Ackerman,,TE,6050,232,FR
+Ross,Alexander,,DE,6020,230,SO
+J.L.,Banks,,TE,6030,230,FR
+Thomas,Banks,,RB,5100,190,RS FR
+Jake,Banta,,LS,6010,270,SR
+Johnathan,Battle Jr.,,DT,6010,280,SR
+Jacorey,Belvin,,S,5100,211,FR
+Jay,Bowdry,,S,6000,187,FR
+Tommy,Boynton,,OL,6040,300,SO
+Matt,Breida,,RB,5100,180,JR
+Robert,Brice II,,SS,5110,190,JR
+Ryan,Brown,,RB,5080,216,FR
+Ian,Bush,,DL,6000,305,RS FR
+William,Bussey,,S,6000,199,JR
+Kevin,Butler Jr.,,LB,5110,200,JR
+Roscoe,Byrd,,OL,6030,319,SR/TR
+Myles,Campbell,,WR,5050,160,SO
+Hunter,Chambers,,WR,6030,196,RS FR
+Ed,Collins,,WR,5100,195,SR
+Zack,Copeland,,DE,6010,235,RS FR
+Montay,Crockett,,WR,6000,178,JR
+Jeremiah,Culbreth,,OC,6030,285,FR
+Quaun,Daniels,,DE,6010,225,SR
+Bernard,Dawson,,DE,6010,240,JR
+James,Dean,,TE,6010,220,JR
+Chris,DeLaRosa,,ILB,6010,220,SO
+Matt,Dobson,,FS,6020,201,SR
+Lane,Ecton,,S,5110,185,FR
+Jay,Ellison,,NT,6010,306,JR
+Kevin,Ellison,,QB,6000,181,JR
+Kelton,Elvine,,WR,5110,208,SR
+James,Fields,,TE,6000,217,RS FR
+Wesley,Fields,,RB,6000,195,FR
+Patrick,Flowe,,ILB,6010,222,JR
+Matt,Flynn,,PK,6000,201,SO
+Darien,Foreman,,OG,6020,311,SR
+Obe,Fortune,,WR,6010,180,FR
+John,Freeman,,OL,6040,294,SO
+Sean,Gaddy,,OL,6000,275,JR
+Deshawntee,Gallon,,ILB,5090,205,JR
+Monteo,Garrett,,QB,5100,177,RS FR
+Ryan,George,,DE,6010,238,SO
+D'Ondre,Glenn,,WR,6050,210,WR
+Antonio,Glover,,SS,6010,192,SR
+Demarcus,Godfrey,,RB,5090,179,RS FR
+Nardo,Govan,,TE,6020,252,JR
+Drake,Grall,,OL,5100,293,RS FR
+Jamel,Gray,,LB,5110,205,SR
+Jalen,Green-Stewart,,DE,6010,250,RS FR
+Tre,Griffin,,TE,6010,244,JR
+Markeis,Hallback,,CB,6000,185,FR
+Alex,Hanks,,PK,5090,180,SR
+Vegas,Harley,,FS,5110,186,JR
+Da'Quan,Heard,,TE,6030,253,JR
+Malik,Henry,,WR,6000,170,FR
+Noah,Hickey,,RB,5070,215,RS FR
+Tay,Hicklin,,CB,5110,188,SR
+Tristan,Hill,,OG,6040,290,RS FR
+NaQuan,Howard,,CB,6010,177,FR
+Logan,Hunt,,DE,6020,230,FR
+Maurice,Hunt Jr.,,OT,6010,288,SR
+BJ,Johnson,,WR,6010,213,JR
+Jamal,Johnson,,DT,6020,244,JR
+Darius,Jones Jr.,,CB,5090,178,JR
+Derek,Keaton,,WR,5100,183,SR
+Ivey,Kennedy,,OL,6040,297,RS FR
+Randy,Knighter,,WR,5090,170,RS FR/TR
+Younghoe,Koo,,PK,5100,194,JR
+J.B.,Kouassi,,DE,6020,225,FR
+Andy,Kwon,,OC,6020,297,JR
+DeVonte,Lewis,,WR,5070,166,SR
+Jessie,Liptrot,,CB,6000,175,FR
+Ryan,Longoria,,WR,6020,200,SR
+Max,Magana,,OT,6060,290,JR/TR
+Christian,Matthew,,CB,6030,175,FR
+Kameron,Maye,,WR,5110,175,SO
+Hampton,McConnell,,QB,6030,200,FR
+Eric,Montgomery,,RB,6000,188,FR
+Joshua,Moon,,S,5110,180,FR
+Jackson,Morris,,OL,6010,269,SO
+Roderick,Murray,,CB,5110,198,RS FR
+Ryan,Northrup,,OL,6020,285,RS FR
+Ryan,Nowicki,,PK,6010,197,SR
+Kurt,Oehlbeck,,LB,5100,179,SO
+Curtis,Rainey,,OL,6020,275,FR
+Alfred,Ramsby,,RB,5110,210,SO
+Cody,Rediger,,TE,6020,238,SR
+Lennie,Richardson,,DE,6010,253,SR
+D'Mario,Riggins,,WR,5090,166,SR
+Eric,Ritland,,WR,6000,179,RS FR
+Clifford,Saggus,,CB,5090,179,JR
+Rayquan,Sam,,CB,5090,177,JR
+Darrius,Sapp,,NT,6010,305,SO
+Jacob,Schofill,,DB,5090,175,RS FR
+Isaiah,Seise,,DE,6010,239,RS FR
+Nick,Sewak,,LS,6020,220,SO
+Troy,Stewart,,WR,5090,190,RS FR
+Christian,Taylor,,OT,6050,340,RS FR
+Jeremiah,Theus,,OT,6040,280,FR
+Chaz,Thornton,,RB,5070,182,SO
+Favian,Upshaw,,QB,6010,167,JR
+Jeff,Ward,,TE,6000,276,SR
+Heath,Warren,,OL,6030,251,SO
+Darrius,White,,CB,5110,180,SR
+Antwoine,Williams,,OLB,6030,245,SR
+Caleb,Williams,,CB,5090,170,SR
+Christian,Williams,,OL,6000,305,RS FR
+Keigan,Williams,,WR,6010,198,JR
+Steve,Williams,,FS,6020,216,SR
+Trayvon,Williams,,OG,6020,306,RS FR
+Zander,Yost,,S,5100,190,JR

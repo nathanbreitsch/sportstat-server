@@ -1,0 +1,76 @@
+first_name,last_name,suffix,position,height,weight,year
+Aaron,Ahner,,DT,6030,252,RS JR
+Gabe,Ahner,,DT,6030,267,RS SO
+Joshua,Appleby,,P,6030,219,JR
+Lamar,Atkins,,FB,5110,216,RS SO
+Javonte,Bagley,,WR,6030,180,FR
+Drew,Bailey,,DE,6050,285,JR
+Jarrod,Barnes,,SS,5110,197,RS SO
+Richard,Benjamin,,CB,6000,199,RS FR
+Kyle,Bolin,,QB,6030,196,RS FR
+Reggie,Bonnafon,,QB,6030,205,FR
+DeAngelo,Brown,,DT,6000,318,RS SO
+Jon,Brown,,PK,5100,202,SO
+Keith,Brown,,IB,6010,235,RS SO
+James,Burgess,,OB,6000,215,JR
+Danny,Burns,,OT,6060,339,FR
+Dontez,Byrd,,WR,5110,170,RS FR
+Zykiesis,Cannon,,CB,6000,183,FR
+Alphonso,Carter,,WR,6030,205,SO
+Micky,Crum,,TE,6040,250,FR
+De'Eric,Culver,,CB,6000,180,FR
+Nick,Dawson-Brents,,MLB,6300,265,RS So
+Royce,Donovan,,OB,6010,222,RS SO
+Aaron,Epps,,OT,6070,279,RS JR
+Henry,Famurewa,,OB,6020,232,FR
+Tyler,Ferguson,,QB,6040,225,JR/TR
+Will,Gardner,,QB,6050,230,RS SO
+Anthony,George,,PK,6010,164,RS SO
+Josh,Harvey-Clemons,,SS,6050,212,JR
+James,Hearns,,OB,6030,225,RS FR
+Cole,Hikutini,,TE,6050,240,JR
+Colin,Holba,,LS,6030,215,RS SO
+Kevin,Houchins,,CB,5110,184,RS SO
+Tobijah,Hughley,,OG,6030,291,RS SO
+Khalil,Hunter,,OG,6040,300,JR
+Kelby,Johnson,,OT,6070,299,JR/TR
+Malin,Jones,,RB,6000,225,JR
+Keith,Kelsey,,IB,6010,217,SO
+T.C.,Klusman,,OG,6030,272,RS SO
+Skylar,Lacy,,OG,6060,320,RS FR
+Corvin,Lamb,,RB,5090,212,RS JR
+Lukayus,McNeil,,OT,6060,278,FR
+Finesse,Middleton,,DT,5110,259,RS FR
+Chris,Miele,,WR,6020,182,RS FR
+Devontre,Parnell,,CB,5110,174,RS SO
+Gio,Pascascio,,WR,6030,185,JR
+James,Quick,,WR,6010,171,SO
+Brandon,Radcliff,,RB,5090,216,RS SO
+Sheldon,Rankins,,DT,6020,287,JR
+Jermaine,Reve,,CB,6000,180,RS JR
+De'asian,Richardson,,DE,6030,285,RS FR
+Terrence,Ross,,FS,6020,186,RS FR
+Traveon,Samuel,,WR,5070,175,FR
+LJ,Scott,,RB,6000,228,FR
+Kyle,Shortridge,,DT,6020,297,RS FR
+Pedro,Sibiea,,DT,6030,301,RS SO
+Darius,Skinner,,RB,5070,190,RS SR
+Jeremy,Smith,,RB,6020,225,RB
+Charles,Standberry,,TE,6030,216,FR
+Jamari,Staples,,WR,6040,195,JR
+Isaac,Stewart,,ILB,6020,240,FR
+Cornelius,Sturghill,,WR,5110,180,FR
+Cody,Swabeck,,WR,6010,175,FR
+Jimmie,Terry,,OL,6040,350,FR
+Tae,Thibodeaux,,DL,6020,270,FR
+Pat,Thomas,,QB,6040,190,SO
+Stacy,Thomas,,DE,6010,237,RS FR
+Keith,Towbridge,,TE,6030,263,SO
+Griffin,Uhl,,FB,6020,267,RS SO
+Pio,Vatuvei,,DE,6020,275,JR
+John,Wallace,,PK,6000,196,RS JR
+Trumaine,Washington,,CB,5100,180,FR
+Shaq,Wiggins,,CB,5100,165,SO/TR
+Charles,Williams,,SS,6020,180,RS FR
+Ja'Quay,Williams,,WR,6030,214,JR
+Trevon,Young,,DE,6040,233,JR/TR

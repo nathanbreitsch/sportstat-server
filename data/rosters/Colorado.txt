@@ -1,0 +1,106 @@
+first_name,last_name,suffix,position,height,weight,year
+Michael,Adkins II,,RB,5100,200,JR
+Cade,Apsay,,QB,6020,190,FR
+Vincent,Arvia,,OL,5110,290,JR
+Chidobe,Awuzie,,CB,6000,190,JR
+Aaron,Baltazar,,RB,5110,190,JR TR
+Jered,Bell,,FS,6010,195,SR
+Bryan,Boatman,,TE,6030,220,SO
+Bryce,Bobo,,WR,6020,190,SO
+Chris,Bounds,,TE-Y,6040,265,FR
+Ed,Caldwell,,OL,6050,300,JR
+Shane,Callahan,,OG,6060,300,JR
+James,Carr,,OL,6030,305,SR
+Patrick,Carr,,RB,5900,185,FR
+Jordan,Carrell,,DT,6030,275,JR TR
+Connor,Center,,TE,6070,245,SO
+Timothy,Coleman,,DE,6020,240,SO
+Kenneth,Crawley,,CB,6010,165,SR
+Connor,Darby,,OL,6040,310,SO
+Elijah,Dunston,,WR,6000,185,SO
+Kyle,Evans,,RB,5060,175,RS FR
+N.J.,Falo,,OLB,6030,225,FR
+Shay,Fields,,WR,5110,170,SO
+John,Finch,,FB/LS,5110,215,JR
+Will,Fischer-Colbrie,,QB,6010,215,RS
+Nick,Fisher,,CB,6000,185,FR
+Jase,Franke,,DL,6040,270,RS FR
+George,Frazier,,FB/OLB,6020,260,SO
+Rick,Gamboa,,LB,6010,225,RS FR
+Ty,Gangi,,QB,6020,190,FR
+Jordan,Gehrke,,QB,6010,190,JR
+Jimmie,Gilbert,,DE,6040,215,JR
+Addison,Gillam,,OLB,6030,225,JR
+Diego,Gonzalez,,PK/P,5110,200,JR
+Donald,Gordan,,RB,5110,200,FR
+Chris,Graham,,PK,6030,215,SO
+Garrett,Gregory,,LB,6010,225,SO
+Devyn,Grimes,,WR,5090,200,RS JR
+Aaron,Haigler,,OT,6060,225,FR
+Joseph,Hall,,WR,5090,165,SO
+Terran,Hasselbach,,DE,6010,235,RS FR
+Tyler,Henington,,DT,6020,275,JR
+Chris,Hill,,TE,6020,215,SO
+Isaiah,Holland,,OL,6050,330,SO
+Aaron,Howard,,DE,6010,240,JR
+Jonathan,Huckins,,OC,6030,290,SO
+Jeromy,Irwin,,OT,6050,290,JR
+Sean,Irwin,,TE,6030,235,JR
+Justin,Jan,,WR,6030,205,FR
+Hayden,Jones,,TE,6060,245,RS FR
+Samson,Kafovalu,,DT,6050,245,RS JR
+Josh,Kaiser,,OL,6050,270,RS FR
+Alex,Kelley,,OG,6020,310,JR
+Alex,Kinney,,K,6020,200,FR
+Gerrad,Kough,,OG,6040,295,SO
+Sam,Kronshage,,OT,6050,295,SO
+Afolabi,Laguda,,S,6020,203,JR TR
+Donovan,Lee,,ATH,5080,170,SO
+Phillip,Lindsay,,RB,5080,165,SO
+John,Lisella II,,OL,6040,265,Fr.
+Sefo,Liufau,,QB,6040,215,JR
+Eddie,Lopez,,DT,6040,300,SO
+Tim,Lynott,,OG,6040,295,FR
+Jay,MacIntyre,,WR,5100,185,RS FR
+Michael,Mathewes,,DL,6050,250,RS FR
+Derek,McCartney,,DE,6030,235,SO
+Dillon,Middlemiss,,OG,6050,275,FR
+Ryan,Moeller,,RB,6000,200,SO
+Steven,Montez,,QB,6050,194,FR
+Marques,Mosley,,FS,6000,175,RS JR
+Jordan,Murphy,,FB,6000,230,SR
+Marc,Mustoe,,OT,6070,290,SR
+Stephane,Nembot,,OT,6070,305,SR
+Clay,Norgard,,ILB,6000,240,JR
+Isaiah,Oliver,,WR,6000,171,FR
+Kenneth,Olugbode,,OLB,6000,200,JR
+Robert,Orban,,TE,6060,195,SO
+Christian,Powell,,RB,6000,235,SR
+Markeis,Reed,,DL,6040,225,SO
+Deaysean,Rippy,,OLB,6020,220,JR
+Blake,Robbins,,DE,6040,250,JR TR
+Devin,Ross,,WR,5090,170,RS SO
+Jaisen,Sanchez,,DB,6010,195,RS FR
+Ryan,Severson,,LB/RB,5100,200,JR
+Christian,Shaver,,DE,6030,235,SO
+Hunter,Shaw,,OLB,6030,210,SR
+Wyatt Tucker,Smith,,LS,6020,235,SR
+Justin,Solis,,DT,6010,320,JR
+Nelson,Spruce,,WR,6010,205,SR
+Colin,Sutton,,OL,6040,290,SO
+Travis,Talianko,,OLB,6010,210,JR
+Tedric,Thompson,,SS,6000,205,JR
+Brett,Tonz,,DT,6030,265,FR
+Lyle,Tuiloma,,DT,6020,285,FR
+Josh,Tupou,,DT,6030,320,SR
+John Paul,Tuso,,DT,6030,270,JR
+Frank,Uma,,DT,6040,280,FR
+John,Walker,,CB,5090,170,JR
+Lee,Walker,,WR,6000,175,RS FR
+Evan,White,,FS,6020,195,SO
+Sully,Wiefels,,OC/OG,6030,300,SR
+De'Jon,Wilson,,DE,6020,250,JR
+Ahkello,Witherspoon,,CB,6030,185,JR
+Yuri,Wright,,CB,6010,170,JR
+Bryan,Wyman,,DL,6010,260,SO
+Richard,Yates II,,FS,6020,190,SR

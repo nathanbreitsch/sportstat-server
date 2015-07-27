@@ -1,0 +1,102 @@
+first_name,last_name,suffix,position,height,weight,year
+Bryan,Baird,,DE,6030,238,RS SR
+Nilijah,Ballew,,DB,6000,204,SO
+Aaron,Banks,,OLB,6020,218,RS SO
+Zac,Bartman,,LB,5110,211,RS JR
+JC,Bartok,,OL,6050,275,FR
+Trevahn,Beery,,DB,6000,166,RS FR
+J.J.,Beggan,,OC,6030,305,RS SO
+Jacob,Bennett,,OT,6050,332,RS JR
+Kyle,Bobo,,FB,6020,220,JR
+Marcus,Boomer,,WR,6010,175,RS FR
+Jamari,Bozeman,,DB,6020,190,FR
+Malik,Brown,,DL,6040,251,RS SO
+Ryan,Burbrink,,WR,5080,183,RS SR
+Terrance,Bush,,DE,6020,238,RS JR
+Spencer,Cairo,,OL,6020,314,RS SR
+Cody,Callaway,,QB,6010,189,SO
+Clark,Clancy,,OG,6030,288,RS SO
+Herve,Coby,,WR,6000,179,RS SR
+Zach,Colvin,,DT,6030,287,RS SR
+Fred,Coppet,,RB,5090,189,JR
+Joe,Davidson,,P,6070,220,RS SO
+Diontre,Delk,,DB,5100,181,RS SR
+Gehrig,Dieter,,WR,6030,204,RS JR
+Nolan,Dieter,,QB,6020,187,RS SR
+Logan,Dietz,,OT,6060,298,RS JR
+Matt,Domer,,RB,5110,190,FR
+Anthony,Farinella,,K,6020,190,SR
+Nick,Fields,,K,5090,223,RS SO
+Matthew,Finkler,,LB,6020,234,FR
+Hunter,Folkertsma,,TE,6050,236,RS SO
+Chris,Gallon,,WR,6040,229,RS SR
+Isaiah,Gourdine,,SS,6020,198,JR
+Travis,Greene,,RB,5100,183,RS SR
+Trenton,Greene,,OLB,5090,195,SR
+Ben,Hale,,FS,6020,203,SO
+Patric,Hannon,,LB,5110,230,RS SO
+Brandon,Harris,,ATH,6030,205,FR
+Greg,Hohenstein,,LS,6030,222,RS JR
+Tyler,Horstman,,DL,6040,230,FR
+Jermal,Hosley,,WR,5090,192,RS JR
+Alex,Huettel,,OG,6030,309,RS SR
+Ryan,Hunter,,OG,6040,324,RS SO
+Darrell,Hunter II,,CB,5090,178,RS SR
+Robert,Jackson Jr,,DB,5110,168,FR
+Brian,Jennings II,,RB,5100,200,SO
+Matt,Johnson,,QB,6000,221,RS SR
+Bobo,Jones,,DB,6010,181,FR
+Kyle,Junior,,DL,6030,245,FR
+Tyler,King,,DL,6010,280,RS FR
+James,Knapke,,QB,6020,220,RS JR
+David,Konowalski,,DE,6030,210,RS FR
+Jack,Kramer,,DL,6030,295,FR
+Austin,Labus,,OT,6060,284,RS FR
+Charles,Lamar,,RB,6000,204,FR
+Nico,Lautanen,,DL,6030,270,FR
+Derek,Lee,,TE,6040,255,SR
+Roger,Lewis,,WR,6000,196,SO
+Jack,Linklater,,OL,6040,295,RS FR
+Nate,Locke,,ILB,6000,227,RS SO
+Andrew,Lucke,,OL,6020,336,RS FR
+Blake,Lucky,,LB,6030,210,FR
+Izaah,Lunsford,,DL,6030,300,RS JR
+Alphonso,Mack,,CB,5110,178,RS JR
+Corey,Madlock,,DT,6040,296,RS SO
+Tim,McAuliffe,,OC,6000,274,RS SO
+Scott,Miller,,WR,5100,163,FR
+Marcus,Milton,,CB,6000,200,FR
+Mike,Minns,,NG,5100,313,RS JR
+Ronnie,Moore,,WR,5090,168,JR
+James,Morgan,,QB,6040,215,FR
+Jake,Nachtrab,,DL,6020,226,RS SO
+Deric,Phouthavong,,WR,6030,205,FR
+Christian,Piazza,,OL,6060,286,RS SR
+Brandon,Poncsak,,WR,6020,185,RS FR
+Janarvis,Pough,,WR,6010,175,FR
+Teo,Redding,,WR,6010,165,RS FR
+Robbie,Rhodes,,WR,6000,190,RS SO
+Harrison,Roberts,,LB,6010,220,FR
+Matt,Robinson,,DB,5070,175,RS SO
+Trevor,Roop,,WR,5100,196,RS SO
+Taylor,Royster,,NG,5100,255,RS SR
+David,Runnoe,,DL,6010,205,RS JR
+Brian,Sanders,,DL,6030,239,RS FR
+James,Sanford,,OLB,6010,194,RS JR
+Griff,Sauders,,LB,6030,217,RS FR
+Gus,Schwieterman,,DT,6020,261,RS SO
+Shannon,Smith,,DL,6000,281,RS SO
+Vito,Sosic,,TE,6030,225,SR
+Antonyo,Sotolongo,,DB,6000,200,FR
+Clint,Stephens,,CB,5100,180,SO
+Ben,Steward,,OG,6060,300,RS JR
+Jake,Suder,,PK,5090,175,FR
+Tyler,Tate,,PK,6000,185,RS SR
+Tim,Tupa,,WR,6010,190,RS FR
+Denard,Turner,,CB,6000,189,SR
+Austin,Valdez,,OLB,6000,226,RS FR
+Jack,Walz III,,FS,5100,190,RS FR
+De'Angelo,Ware,,OL,6050,320,RS FR
+Will,Watson,,DB,5110,179,SR
+Donovan,Wilson,,RB,6000,213,RS SO
+Geno,Zappa,,OL,6040,280,RS SO
